@@ -1,0 +1,353 @@
+docs/
+└── obicall_phase12_spec.md
+OBIAI/
+├── Arch
+│   └── PROOF_25_07_2025_OVERLEAF.zip
+├── PHASES_R1-RND_PHASE_GATED
+│   ├── A Bayesian Network Framework for Mitigating Bias in Machine Learning Systems.pdf
+│   ├── Dimensional_Game_Theory.pdf
+│   ├── Dimensional_Game_Theory_Varadic_Strategy_in_Multi-Domain.pdf
+│   ├── DIRAM Boolean Logic Truth Table - Memory Management Gates.pdf
+│   ├── Directed Instruction Random Acess Memory.pdf
+│   ├── EATV_Stream_Integration_into_OBINexus_Framework__A_Formalized_Specification_with_Matrix_Verified_Consciousness_Preservation (1).pdf
+│   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism.pdf
+│   ├── Formal Argument for Bias in AI System - Bayesian Modelling.pdf
+│   ├── Formal Argument for Bias in AI Systems.pdf
+│   ├── Formal_Mathemitical_Reasoning_System.pdf
+│   ├── Formal_Technical_Specification___Conceptual_Symbolic_Language_Layer__CSL_.pdf
+│   ├── Formal Verification of Traversal Cost Function for DAG.pdf
+│   ├── Hierarchical_Actor_Orchestrated_State_Management_with_DIRAM_Backed_Epistemic_Validation.pdf
+│   ├── Images
+│   │   ├── A Bayesian Network Framework for Mitigating Bias in Machine Learning Systems
+│   │   ├── Dark Psychology Mitigation & Disability Rights Enforcement Specification
+│   │   ├── Dimensional_Game_Theory
+│   │   │   ├── Dimensional_Game_Theory-1.png
+│   │   │   ├── Dimensional_Game_Theory-2.png
+│   │   │   ├── Dimensional_Game_Theory-3.png
+│   │   │   ├── Dimensional_Game_Theory-4.png
+│   │   │   └── Dimensional_Game_Theory-5.png
+│   │   ├── Dimensional_Game_Theory_Varadic_Strategy_in_Multi-Domain
+│   │   │   ├── Dimensional_Game_Theory_Varadic_Strategy_in_Multi-Domain-1.png
+│   │   │   └── Dimensional_Game_Theory_Varadic_Strategy_in_Multi-Domain-2.png
+│   │   ├── Directed Instruction Random Acess Memory
+│   │   │   ├── Directed Instruction Random Acess Memory-01.png
+│   │   │   ├── Directed Instruction Random Acess Memory-02.png
+│   │   │   ├── Directed Instruction Random Acess Memory-03.png
+│   │   │   ├── Directed Instruction Random Acess Memory-04.png
+│   │   │   ├── Directed Instruction Random Acess Memory-05.png
+│   │   │   ├── Directed Instruction Random Acess Memory-06.png
+│   │   │   ├── Directed Instruction Random Acess Memory-07.png
+│   │   │   ├── Directed Instruction Random Acess Memory-08.png
+│   │   │   ├── Directed Instruction Random Acess Memory-09.png
+│   │   │   ├── Directed Instruction Random Acess Memory-10.png
+│   │   │   ├── Directed Instruction Random Acess Memory-11.png
+│   │   │   ├── Directed Instruction Random Acess Memory-12.png
+│   │   │   ├── Directed Instruction Random Acess Memory-13.png
+│   │   │   ├── Directed Instruction Random Acess Memory-14.png
+│   │   │   ├── Directed Instruction Random Acess Memory-15.png
+│   │   │   ├── Directed Instruction Random Acess Memory-16.png
+│   │   │   ├── Directed Instruction Random Acess Memory-17.png
+│   │   │   ├── Directed Instruction Random Acess Memory-18.png
+│   │   │   ├── Directed Instruction Random Acess Memory-19.png
+│   │   │   ├── Directed Instruction Random Acess Memory-20.png
+│   │   │   └── Directed Instruction Random Acess Memory-21.png
+│   │   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism
+│   │   │   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism-1.png
+│   │   │   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism-2.png
+│   │   │   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism-3.png
+│   │   │   ├── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism-4.png
+│   │   │   └── Epistemic Continuity Analysis_ OBINexus Gating as Knowledge Metabolism-5.png
+│   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-1.png
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-2.png
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-3.png
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-4.png
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-5.png
+│   │   │   ├── Formal Argument for Bias in AI System - Bayesian Modelling-6.png
+│   │   │   └── Formal Argument for Bias in AI System - Bayesian Modelling-7.png
+│   │   ├── Formal Argument for Bias in AI Systems
+│   │   │   ├── Formal Argument for Bias in AI Systems-1.png
+│   │   │   ├── Formal Argument for Bias in AI Systems-2.png
+│   │   │   ├── Formal Argument for Bias in AI Systems-3.png
+│   │   │   └── Formal Argument for Bias in AI Systems-4.png
+│   │   ├── Formal_Mathemitical_Reasoning_System
+│   │   │   ├── Formal_Mathemitical_Reasoning_System-1.png
+│   │   │   ├── Formal_Mathemitical_Reasoning_System-2.png
+│   │   │   ├── Formal_Mathemitical_Reasoning_System-3.png
+│   │   │   ├── Formal_Mathemitical_Reasoning_System-4.png
+│   │   │   ├── Formal_Mathemitical_Reasoning_System-5.png
+│   │   │   └── Formal_Mathemitical_Reasoning_System-6.png
+│   │   ├── Formal_Technical_Specification___Conceptual_Symbolic_Language_Layer__CSL_
+│   │   ├── Formal Verification of Traversal Cost Function for DAG
+│   │   │   ├── Formal Verification of Traversal Cost Function for DAG-1.png
+│   │   │   ├── Formal Verification of Traversal Cost Function for DAG-2.png
+│   │   │   ├── Formal Verification of Traversal Cost Function for DAG-3.png
+│   │   │   ├── Formal Verification of Traversal Cost Function for DAG-4.png
+│   │   │   ├── Formal Verification of Traversal Cost Function for DAG-5.png
+│   │   │   └── Formal Verification of Traversal Cost Function for DAG-6.png
+│   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-1.png
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-2.png
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-3.png
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-4.png
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-5.png
+│   │   │   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-6.png
+│   │   │   └── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization-7.png
+│   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-1.png
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-2.png
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-3.png
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-4.png
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-5.png
+│   │   │   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-6.png
+│   │   │   └── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI-7.png
+│   │   ├── misc
+│   │   │   ├── OBINexus Dual-Track Development.png
+│   │   │   └── Unbiaed_AI Stats Slide.png
+│   │   ├── Mitigating_Bias_in_Machine_Learning_Models
+│   │   │   ├── Mitigating_Bias_in_Machine_Learning_Models-1.png
+│   │   │   ├── Mitigating_Bias_in_Machine_Learning_Models-2.png
+│   │   │   ├── Mitigating_Bias_in_Machine_Learning_Models-3.png
+│   │   │   └── Mitigating_Bias_in_Machine_Learning_Models-4.png
+│   │   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2
+│   │   │   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2-1.png
+│   │   │   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2-2.png
+│   │   │   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2-3.png
+│   │   │   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2-4.png
+│   │   │   └── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2-5.png
+│   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-1.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-2.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-3.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-4.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-5.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-6.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-7.png
+│   │   │   ├── OBIAxis Division Charter - Epistemological Alignment Authority-8.png
+│   │   │   └── OBIAxis Division Charter - Epistemological Alignment Authority-9.png
+│   │   ├── OBINexus Constitutional Clause_ Department-to-Division Transition Protocol
+│   │   ├── OBINexus Constitutional Ecosystem README
+│   │   │   ├── OBINexus Constitutional Ecosystem README-1.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-2.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-3.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-4.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-5.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-6.png
+│   │   │   ├── OBINexus Constitutional Ecosystem README-7.png
+│   │   │   └── OBINexus Constitutional Ecosystem README-8.png
+│   │   ├── OBINexus Constitutional Legal Framework
+│   │   │   ├── OBINexus Constitutional Legal Framework-01.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-02.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-03.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-04.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-05.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-06.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-07.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-08.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-09.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-10.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-11.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-12.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-13.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-14.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-15.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-16.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-17.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-18.png
+│   │   │   ├── OBINexus Constitutional Legal Framework-19.png
+│   │   │   └── OBINexus Constitutional Legal Framework-20.png
+│   │   ├── OBINexus Constitutional Legal Framework_ Machine-Verifiable Governance Code
+│   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation
+│   │   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation-1.png
+│   │   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation-2.png
+│   │   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation-3.png
+│   │   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation-4.png
+│   │   │   ├── OBINexus Gating Strategy Narrative - Technical Documentation-5.png
+│   │   │   └── OBINexus Gating Strategy Narrative - Technical Documentation-6.png
+│   │   ├── OBINexus_Password_Rotation_Scheme_for_AI
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-01.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-02.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-03.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-04.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-05.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-06.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-07.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-08.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-09.png
+│   │   │   ├── OBINexus_Password_Rotation_Scheme_for_AI-10.png
+│   │   │   └── OBINexus_Password_Rotation_Scheme_for_AI-11.png
+│   │   ├── OBINexus Pre-Grant Gated Development Architecture
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-01.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-02.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-03.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-04.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-05.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-06.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-07.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-08.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-09.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-10.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-11.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-12.png
+│   │   │   ├── OBINexus Pre-Grant Gated Development Architecture-13.png
+│   │   │   └── OBINexus Pre-Grant Gated Development Architecture-14.png
+│   │   ├── OBINexus UI_UX Infrastructure Specification
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-01.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-02.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-03.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-04.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-05.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-06.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-07.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-08.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-09.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-10.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-11.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-12.png
+│   │   │   ├── OBINexus UI_UX Infrastructure Specification-13.png
+│   │   │   └── OBINexus UI_UX Infrastructure Specification-14.png
+│   │   ├── Ontological Bayesian Intelligence Architecture
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-1.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-2.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-3.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-4.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-5.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-6.png
+│   │   │   ├── Ontological Bayesian Intelligence Architecture-7.png
+│   │   │   └── Ontological Bayesian Intelligence Architecture-8.png
+│   │   ├── Right to Act Human Rights Clause - Constitutional Implementation
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-01.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-02.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-03.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-04.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-05.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-06.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-07.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-08.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-09.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-10.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-11.png
+│   │   │   ├── Right to Act Human Rights Clause - Constitutional Implementation-12.png
+│   │   │   └── Right to Act Human Rights Clause - Constitutional Implementation-13.png
+│   │   ├── The Heart AI - Technical Specification for Patent Filing
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-01.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-02.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-03.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-04.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-05.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-06.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-07.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-08.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-09.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-10.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-11.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-12.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-13.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-14.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-15.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-16.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-17.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-18.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-19.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-20.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-21.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-22.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-23.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-24.png
+│   │   │   ├── The Heart AI - Technical Specification for Patent Filing-25.png
+│   │   │   └── The Heart AI - Technical Specification for Patent Filing-26.png
+│   │   ├── The Truth Project
+│   │   │   ├── The Truth Project-1.png
+│   │   │   └── The Truth Project-2.png
+│   │   ├── Unified OBIAI Specification Document for GitHub Repository Integration
+│   │   │   ├── Unified OBIAI Specification Document for GitHub Repository Integration-1.png
+│   │   │   ├── Unified OBIAI Specification Document for GitHub Repository Integration-2.png
+│   │   │   └── Unified OBIAI Specification Document for GitHub Repository Integration-3.png
+│   │   └── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-01.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-02.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-03.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-04.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-05.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-06.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-07.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-08.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-09.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-10.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-11.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-12.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-13.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-14.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-15.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-16.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-17.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-18.png
+│   │       ├── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-19.png
+│   │       └── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto-20.png
+│   ├── Integrating_FlashCycle_Cognition_with_Dimensional_Game_Theory.pdf
+│   ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization.pdf
+│   ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI.pdf
+│   ├── Mitigating_Bias_in_Autonomous_Robotics__System.pdf
+│   ├── Mitigating_Bias_in_Machine_Learning_Models.pdf
+│   ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2.pdf
+│   ├── obinexus-gating-strategy.md
+│   ├── OBINexus Gating Strategy Narrative - Technical Documentation.pdf
+│   ├── OBINexus_Password_Rotation_Scheme_for_AI.pdf
+│   ├── OBINexus Pre-Grant Gated Development Architecture.pdf
+│   ├── Ontological Bayesian Intelligence Architecture.pdf
+│   ├── README.md
+│   ├── Subjective_Symbolic_Cognition___A_Multi_Tiered_Architecture_for_Prompt_Free_Problem_Solving_in_OBIAI (1).pdf
+│   ├── The Heart AI - Technical Specification for Patent Filing.pdf
+│   ├── Unified OBIAI Specification Document for GitHub Repository Integration.pdf
+│   └── Why Everyone Else Is Wrong_ The OBINexus Technical Manifesto.pdf
+└── PROOFS
+    ├── OBICall Phase 1.2_ Mechanical System & Fault-Tolerant Memory Protocol.pdf
+    └── PROOF_25_07_2025_OVERLEAF
+        ├── A_Non_Isomorphic_Lattice_Based_Post_Quantum_Identity_Proof.pdf
+        ├── Cryptographic_Standard_V1_0.pdf
+        ├── Derivate_Calculus_Reform___Act_III.pdf
+        ├── Derivate_Calculus_Reform___Act_I.pdf
+        ├── Derivative_Calculus_Reform__Act_II.pdf
+        ├── Dimensional_Game_Theory_1.pdf
+        ├── Dimensional_Game_Theory_for_AI.pdf
+        ├── Dream_System___Formal_Technical_Specification.pdf
+        ├── Dual_Pair_Conceptual_Architecture_for_OBIAI___Phenomenological_Preservation_in_Computational_Consciousness.pdf
+        ├── EATV_Stream_Integration_into_OBINexus_Framework__A_Formalized_Specification_with_Matrix_Verified_Consciousness_Preservation.pdf
+        ├── Fault_Tolerant_Distributed_Systems___A_Category_Theoretic_Approach.pdf
+        ├── Fault_Tolerant_Distributed_Systems__A_Category_Theoretic_Approach.pdf
+        ├── Fault_Tolerant_Distributed_Systems___A_Category_Theoretic_Approach_with_P_Topology_.pdf
+        ├── Formal_Mathemitical_Reasoning_System.pdf
+        ├── Formal_Technical_Specification___Conceptual_Symbolic_Language_Layer__CSL_.pdf
+        ├── Hierarchical_Actor_Orchestrated_State_Management_with_DIRAM_Backed_Epistemic_Validation.pdf
+        ├── Higgs_Quatum.pdf
+        ├── Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+        ├── Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization.pdf
+        ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI (1).pdf
+        ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling_for_AI.pdf
+        ├── Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+        ├── Mitigating_Bias_in_Autonomous_Robotics__System.pdf
+        ├── Model_Agnostic_Grammar_Traversal_for_RIFT_Pipeline.pdf
+        ├── mod.pdf
+        ├── OBIAI (1).pdf
+        ├── OBIAI_almost_typecat.pdf
+        ├── OBIAI_Filter_Flash_DAG_Cognition_Engine_v2_2.pdf
+        ├── OBIAI.pdf
+        ├── OBINexus_Cryptographic_Interoperability_Standard_V1_0.pdf
+        ├── OBINexus_Password_Rotation_Scheme_for_AI (1).pdf
+        ├── OBINexus_Password_Rotation_Scheme_for_AI.pdf
+        ├── OBINexus_Truth_Framework_v1_0_0_alpha.pdf
+        ├── Ontological_Bayesian_Infrastructure___Toward_a_Self_Interpreting_AI_Framework.pdf
+        ├── Protocol_for_Generalized_Consciousness_Encoding__The_OBIAI_Memo_Temple_Neural_Scaffold.pdf
+        ├── Quatum_Memory_Arch.pdf
+        ├── rift_ecosystem.pdf
+        ├── RIFT_SP111_Model_Agnostic_Grammar_Traversal_System.pdf
+        ├── RIFT_SP111.pdf
+        ├── stage_N___Hybrid_Quantum_Classical_Token_Execution_Layer__Copy_.pdf
+        └── Subjective_Symbolic_Cognition___A_Multi_Tiered_Architecture_for_Prompt_Free_Problem_Solving_in_OBIAI.pdf
+Scripts/
+├── combine_pdf.py
+├── milestone_audit_lock.py
+├── zone_remove_glob.sh
+└── zone_remove.sh
+
+39 directories, 312 files
