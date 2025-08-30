@@ -1,0 +1,19 @@
+digraph InfiniteConceptDAG {
+    rankdir=TB;
+    node [shape=box, style=rounded, fontname="Helvetica"];
+    edge [color="#2E86AB", penwidth=2];
+
+    ObjectiveReality [label="Objective Reality", fillcolor="#F6F4F3", style=filled];
+    TensionDetection [label="Tension Detection", fillcolor="#A23B72", style=filled, fontcolor=white];
+    SubjectiveResolution [label="Subjective Resolution", fillcolor="#F18F01", style=filled];
+    OntologicalCommitment [label="Ontological Commitment", fillcolor="#C73E1D", style=filled, fontcolor=white];
+    SafetyAction [label="Safety Action", fillcolor="#0F3460", fontcolor=white, style=filled];
+    NewRealityState [label="New Reality State", fillcolor="#533747", fontcolor=white, style=filled];
+
+    ObjectiveReality -> TensionDetection;
+    TensionDetection -> SubjectiveResolution;
+    SubjectiveResolution -> OntologicalCommitment;
+    OntologicalCommitment -> SafetyAction;
+    SafetyAction -> NewRealityState;
+    NewRealityState -> ObjectiveReality [style=dashed, color="gray"];
+}
