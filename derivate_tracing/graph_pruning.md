@@ -1,4 +1,3 @@
-### **Graph Pruning Formalization**
 
 **Definition 1: Graph Structure**
 Let $G = (V, E)$ be a graph where:
