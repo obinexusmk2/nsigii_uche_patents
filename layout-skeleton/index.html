@@ -1,0 +1,120 @@
+
+HTML Options
+21
+​
+22
+    <!-- T Pattern Container -->
+23
+    <div class="pattern-container" id="t-pattern-container">
+24
+        <div class="pattern-title">T Pattern Layout</div>
+25
+        <div class="t-pattern" id="t-content">
+26
+            <!-- Content will be dynamically inserted here -->
+27
+        </div>
+28
+    </div>
+29
+​
+30
+​
+31
+​
+CSS
+
+CSS Options
+1
+   :root {
+2
+            --text-flow-spacing: 1.5rem;
+3
+            --skeleton-bg: #e2e8f0;
+4
+            --skeleton-highlight: #f8fafc;
+5
+            --pattern-transition: transform 0.3s ease;
+6
+        }
+7
+​
+8
+        body {
+9
+            font-family: Arial, sans-serif;
+10
+            margin: 20px;
+11
+            padding: 20px;
+12
+            background: #f0f4f8;
+13
+            display: flex;
+14
+            flex-direction: column;
+15
+            gap: 2rem;
+16
+        }
+17
+​
+18
+        .pattern-container {
+19
+            background: white;
+20
+            padding: 2rem;
+21
+            margin: 1rem;
+22
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+23
+            resize: both;
+24
+            overflow: auto;
+JS
+
+JS Options
+1
+   let isLoading = true;
+2
+​
+3
+        const patterns = {
+4
+            z: {
+5
+                real: `
+6
+                    <div class="z-pattern__content with-drop-cap">
+7
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+8
+                    </div>
+9
+                    <div class="z-pattern__content with-drop-cap">
+10
+                        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.
+11
+                    </div>
+12
+                `,
+13
+                skeleton: `
+14
+                    <div class="z-pattern__content">
+15
+                        <div class="skeleton-text-group">
+16
+                            <div class="skeleton-text"></div>
+17
+                            <div class="skeleton-text"></div>
+18
+                            <div class="skeleton-text"></div>
+19
+                        </div>
+20
+                    </div>
+21
+                    <div class="z-pattern__content">
