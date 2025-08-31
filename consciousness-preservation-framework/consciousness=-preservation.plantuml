@@ -1,0 +1,141 @@
+@startuml
+' PlantUML schematic: OBINexus Preservation × AuraSeal × Bayesian × FoD × Pruning
+' Use as a mechanical/electrical + systems schematic (logical/component view)
+
+skinparam backgroundColor #0f1724
+skinparam componentStyle rectangle
+skinparam shadowing false
+skinparam ArrowColor #9ae6b4
+skinparam NoteBorderColor #94a3b8
+skinparam NoteBackgroundColor #071026
+skinparam defaultFontColor #e2e8f0
+skinparam monochrome false
+
+title OBINexus System Schematic — Preservation + AuraSeal + Bayesian + FoD + Pruning
+
+' Physical Layer: mechanical + electrical + manufacturing
+package "Physical Layer\n(Mech / Elec / Fabrication)" #072b4b {
+  [Chassis: Mechanical Frame] as CH
+  [Power: Battery / PSU] as PWR
+  [Sensors: vision, lidar, env, bio] as SENS
+  [Actuators: motors, servos, exoskel] as ACT
+  [Fabrication Module: 3D Printer / CNC] as FAB
+  CH -down-> PWR : powers
+  CH -left-> SENS : mount
+  CH -right-> ACT : mount
+  FAB --> CH : produce parts / replace
+}
+
+' Embedded Compute Layer
+package "Embedded Compute\n(RT control & safety)" #0b3b48 {
+  [Realtime Control Unit\n(FoD Motion Controller)] as RT_CTRL
+  [Sensor IO & Preproc\n(Env / Bio filters)] as IO
+  [Hardware Security Module\n(AuraSeal Edge)] as HSM
+  PWR --> RT_CTRL
+  SENS --> IO : raw data
+  IO --> RT_CTRL : filtered signals
+  RT_CTRL --> ACT : motion commands
+  HSM -down-> RT_CTRL : integrity token / aur64/aur256
+}
+
+' Cognition & Awareness Layer
+package "Cognitive & Integrity Stack\n(OBIAI / Bayesian / AuraSeal)" #07365a {
+  [Epistemic Flash Index\n(Prov. traces, EFI)] as EFI
+  [Bayesian Bias Module\n(Priors, Posterior, Debias)] as BAYES
+  [AuraSeal Integrity Engine\n(pubsuba / aur512)] as AUR
+  [Mutual Exclusion Watchdog\n(forward-only enforcement)] as WATCH
+  EFI --> BAYES : provenance + evidence
+  IO --> EFI : perceptual flashes
+  BAYES --> AUR : trusted posterior metadata
+  AUR --> WATCH : aura_chain_status
+  WATCH --> RT_CTRL : allow/deny forward actions
+}
+
+' Perception & Representation Layer (4D FoD / Pruning)
+package "Perception & Representation\n(4D FoD / Graph Pruning / Unboxing)" #07414c {
+  [4D FoD Tensor Engine\n(𝓕 → core via Tucker/SVD)] as FOD
+  [Graph Pruning Engine\n(weights, τ, cluster-preserve] as PRUNE
+  SENS --> FOD : kinematics / env
+  RT_CTRL --> FOD : state windows
+  FOD --> RT_CTRL : FoD_score (0-6)
+  FOD --> BAYES : motion priors
+  BAYES --> PRUNE : confound-informed thresholds
+  PRUNE --> EFI : pruned knowledge graph
+}
+
+' Policy / Human Rights & Foundation checks
+package "Foundation & Policy Gate\n(Human Rights / Section 184 / Consent)" #0a2530 {
+  [Rights/Resources Monitor\n(food, water, shelter, autonomy)] as RIGHTS
+  [Consent & Witnessing Membrane\n(Graduated Access)] as WITNESS
+  RIGHTS --> WATCH : foundation_ok?
+  WITNESS --> WATCH : witness_token
+  WATCH --> AUR : trigger audits
+}
+
+' Output / Actuation / Interfaces
+package "Outputs & Interfaces" #062f3a {
+  [Decision Bus\n(classification: home/prison etc.)] as BUS
+  [Telemetry & Audit Log\n(aur256, EFI traces)] as LOG
+  [Operator Console\n(Human-in-loop)] as UI
+  RT_CTRL --> BUS : action decisions
+  WATCH --> BUS : integrity flags
+  BUS --> ACT : execute physical behaviors
+  AUR --> LOG : signatures
+  EFI --> LOG : provenance traces
+  LOG --> UI : audit view
+  UI --> WITNESS : approve / override
+}
+
+' Control flows and labels
+IO --> EFI : percepts → epistemic flashes
+BAYES --> RT_CTRL : de-biased decisions (policy)
+PRUNE --> RT_CTRL : pruned graph constraints
+RIGHTS --> RT_CTRL : emergency constraint (FoD < 2 => lock)
+FOD --> WATCH : FoD_score
+HSM --> LOG : hardware-signed aur512
+
+' Annotate important directional constraints (forward-only, timeout)
+note right of AUR
+  Mutual Exclusion:
+  - private -> public : OK
+  - public -> private : BLOCK (aura_gut_timeout)
+end note
+
+note left of WATCH
+  Watchdog enforces:
+  - foundation thresholds
+  - aura timeout (ms)
+  - Bayesian confidence thresholds (> threshold)
+end note
+
+' Safety thresholds details
+note bottom of FOD
+  FoD thresholds:
+  - < 2.0 Emergency Mode (assist / lock)
+  - 2.0 - 4.0 Assisted Mode
+  - > 4.0 Full Autonomy
+end note
+
+note bottom of BAYES
+  Bayesian checks:
+  - monitor confounders φ
+  - posterior integration P(θ|D) over φ
+  - require confidence_min for autonomous action
+end note
+
+' Mechanical/electrical fail-safe arrows
+PWR -right-> ACT : power
+PWR -right-> HSM : secure power domain
+PWR -right-> SENS : powered
+
+' Group labels for mechanical vs electrical boundaries (for manufacturing)
+CH .. FAB : manufactured parts / replacements
+
+' Top-level legends and version
+legend right
+  |= Legend =|
+  |> Solid arrow = data / power flow
+  |> Dashed = logical/provenance flow
+endlegend
+
+@enduml
