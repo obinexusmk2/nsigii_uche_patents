@@ -1,0 +1,66 @@
+@startuml
+
+!theme plain
+title Filter-Flash Memory Model: Housing Crisis Example
+
+package "AI Perception System" {
+  
+  rectangle "Input Layer" {
+    component "Phenomenon" as pheno #lightblue
+    note right of pheno: "I see a house"
+  }
+  
+  rectangle "Filter Layer (Problem Solving)" {
+    component "Bottom-Up Filter" as bottom #lightgreen
+    component "Top-Down Filter" as top #yellow
+    
+    note left of bottom: "Raw data:\nHouse exists"
+    note right of top: "Context:\nHousing crisis\nCivil collapse"
+  }
+  
+  rectangle "Flash Memory (Active Context)" {
+    database "Working Memory" as flash #orange
+    note bottom of flash: "Temporary storage\nContext switching\nPersona maintenance"
+  }
+  
+  rectangle "Deep Memory (Storage)" {
+    database "Lived Experience" as deep #pink
+    database "Cultural Memory" as culture #pink
+    database "Love Anchors" as love #pink
+    
+    note bottom of deep: "Personal: 18-24\nHomeless experience"
+    note bottom of love: "Agape, Philia,\nEros, Sacred"
+  }
+  
+  rectangle "Output Layer" {
+    component "Coherence Check" as coherence #lightcyan
+    component "Final Output" as output #lightgray
+    
+    note right of coherence: "95.4% threshold\n±12 drift scale"
+  }
+}
+
+' Connections
+pheno --> bottom : "sees house"
+pheno --> top : "checks context"
+bottom --> flash : "house = shelter"
+top --> flash : "house ≠ housed"
+flash <--> deep : "validate with\nlived experience"
+flash <--> culture : "check cultural\ncontext"
+flash <--> love : "anchor to\nrelationships"
+flash --> coherence : "integrated data"
+coherence --> output : "if > 95.4%"
+coherence ..> pheno : "if < 95.4%\nre-evaluate"
+
+' Data Drift Warning
+rectangle "Data Drift Zone" as drift #red {
+  component "Streetlight Bias" as bias
+  component "Omission Error" as omission
+  
+  note bottom of bias: "Only seeing\nwhat's visible"
+  note bottom of omission: "Missing:\nCouncil housing\nDelay/Deny/Defer"
+}
+
+bottom ..> drift : "risk zone"
+
+@enduml
