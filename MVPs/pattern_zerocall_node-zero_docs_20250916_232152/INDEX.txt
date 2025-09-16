@@ -1,0 +1,23 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: zerocall/node-zero/docs
+Source Path: ./MVPs/zerocall/node-zero/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_zerocall_node-zero_docs
+Files Extracted: 12
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+desktop.ini
+PARSER.md
+phantom_decoder.py
+ZERO_KNOWLEDGE_PROOF.md
+Artchecture.md
+Formal Proof of Zzero-Knowledge Protocol.pdf
+Phantom Encoder_ A Design Pattern for Zero-Knowledge Systems.pdf
+Machine_Verifiable_Password_Rotation_and_ZID_Key_Authorization.pdf
+A_Non_Isomorphic_Lattice_Based_Post_Quantum_Identity_Proof (1).pdf
+OBINexus_Password_Rotation_Scheme (4).pdf
+Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+Network.md

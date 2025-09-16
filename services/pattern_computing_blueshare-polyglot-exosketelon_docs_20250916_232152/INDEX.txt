@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: services
+Docs Location: computing/blueshare-polyglot-exosketelon/docs
+Source Path: ./services/computing/blueshare-polyglot-exosketelon/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_services_computing_blueshare-polyglot-exosketelon_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+pruning_formal_definition.tex
+bpets_spec.md

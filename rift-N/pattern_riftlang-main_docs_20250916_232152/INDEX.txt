@@ -1,0 +1,56 @@
+=== OBINexus Patent Documentation Index ===
+Repository: rift-N
+Docs Location: riftlang-main/docs
+Source Path: ./rift-N/riftlang-main/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_rift-N_riftlang-main_docs
+Files Extracted: 45
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+rifttoken_model.md
+$i8rf64o.md
+readme2.md
+rift_goverance_file.md
+riftlang_with_quantum_governnce.md
+contextual swiichting.md
+$rng7ua6.md
+memory_self_role_mask.md
+building_belief_into_code.md
+rift-documentation-build.md
+readme.md
+$r8io2l9.md
+directory_for_riftlang_ugly_as_.md
+rift-token-spec.md
+Quatum_Superposition.md
+$ing7ua6.md
+$i8io2l9.md
+$icu90ow.md
+$r8rf64o.md
+$rcu90ow.md
+Thread Safety Implementation in Gosilang - A Formal Analysis (1).pdf
+FORMAL AUTOMATON MODEL FOR REGEX IN PROGRAMMING LANGUAGE DESIGN.pdf
+the rifters way - language intergirty for human-centric safety-critcial system.md
+the rifters way - language intergirty for human-centric safety-critcial system.pdf
+the_rifters_way_manifesto.pdf
+rifter_ecosystem_whitepaper (8).pdf
+readme2.pdf
+readme.pdf
+riftlang self-governing driver & binding specification.md
+contextual swiichting.pdf
+$rxd9ode.pdf
+rifter_ecosystem_whitepaper (8) - copy.pdf
+memory_self_role_mask.pdf
+$ixd9ode.pdf
+rifter_ecosystem_whitepaper.pdf
+$r2lqwin.pdf
+riftlang self-governing driver & binding specification.pdf
+specification_classic_and
+$i2lqwin.pdf
+building_belief_into_code.pdf
+rift token architecture_ memory-type associations.pdf
+riftlang_implementation_specification.pdf
+riftlang_lexer_specification.md
+governing meaning_ the rift architecture of certainty - copy.pdf
+technical documentation - memory goveranace in the rift ecosystem.pdf

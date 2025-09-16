@@ -1,0 +1,17 @@
+=== OBINexus Patent Documentation Index ===
+Repository: auraseal512
+Docs Location: docs
+Source Path: ./auraseal512/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_auraseal512_docs
+Files Extracted: 6
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+AuraSeal Distributed Integrity System.md
+PhenoAVLTrie Memory Allocation System Specification.md
+auraseal.md
+README.md
+AuraSeal HTTPS Package Distribution & Recovery Specification.md
+TABLE_OF_CONTENTS.md

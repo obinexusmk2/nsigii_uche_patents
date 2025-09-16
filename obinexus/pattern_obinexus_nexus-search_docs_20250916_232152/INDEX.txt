@@ -1,0 +1,14 @@
+=== OBINexus Patent Documentation Index ===
+Repository: obinexus
+Docs Location: obinexus/nexus-search/docs
+Source Path: ./obinexus/obinexus/nexus-search/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_obinexus_obinexus_nexus-search_docs
+Files Extracted: 3
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+.gitkeep
+.gitkeep
+.gitkeep

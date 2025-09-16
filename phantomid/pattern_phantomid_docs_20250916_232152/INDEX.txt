@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: phantomid
+Docs Location: phantomid/docs
+Source Path: ./phantomid/phantomid/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_phantomid_phantomid_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+Formal Proof of Zzero-Knowledge Protocol.pdf
+Phantom Encoder_ A Design Pattern for Zero-Knowledge Systems.pdf

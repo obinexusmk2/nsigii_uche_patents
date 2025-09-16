@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: iaas
+Docs Location: docs
+Source Path: ./iaas/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_iaas_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+smartgoal-2target.png
+smart_goal_waterfall.png

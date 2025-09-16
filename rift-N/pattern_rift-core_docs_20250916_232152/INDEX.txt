@@ -1,0 +1,12 @@
+=== OBINexus Patent Documentation Index ===
+Repository: rift-N
+Docs Location: rift-core/docs
+Source Path: ./rift-N/rift-core/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_rift-N_rift-core_docs
+Files Extracted: 1
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+compass_artifact_wf-c3fa578c-245d-4e4a-8a07-aed1cfd656d6_text_markdown.md

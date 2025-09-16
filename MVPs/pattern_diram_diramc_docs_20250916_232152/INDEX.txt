@@ -1,0 +1,17 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: diram/diramc/docs
+Source Path: ./MVPs/diram/diramc/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_diram_diramc_docs
+Files Extracted: 6
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+diram_boolean_truth_table - Copy.md
+diram_festival_analogy.md
+diram_festival_analogy.pdf
+OBINexus DIRAM Technical Specification.pdf
+intern_at_obinexus.md
+diram_boolean_truth_table.md

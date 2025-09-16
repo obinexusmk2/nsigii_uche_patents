@@ -1,0 +1,135 @@
+=== OBINexus Patent Documentation Index ===
+Repository: rift-N
+Docs Location: rift-poc/docs
+Source Path: ./rift-N/rift-poc/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_rift-N_rift-poc_docs
+Files Extracted: 124
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+rifttoken_model.md
+$i8rf64o.md
+readme2.md
+rift_goverance_file.md
+riftlang_with_quantum_governnce.md
+contextual swiichting.md
+$rng7ua6.md
+memory_self_role_mask.md
+building_belief_into_code.md
+rift-documentation-build.md
+readme.md
+$r8io2l9.md
+Quantum_Superposition.md
+directory_for_riftlang_ugly_as_.md
+rift-token-spec.md
+$ing7ua6.md
+$i8io2l9.md
+$icu90ow.md
+$r8rf64o.md
+$rcu90ow.md
+RIFT-7 Secure Hardware Deployment Layer.pdf
+gossip-language-governance.md
+rift-7-hardware-deployment.md
+rift-bridge-governance-relay.md
+RIFT-Bridge Governance Relay Interface.pdf
+import-enforcement-guide.md
+Gossip Language Governance Layer.pdf
+RIFT Import Enforcement Guide.pdf
+rifter_ecosystem_whitepaper (8).pdf
+readme2.pdf
+readme.pdf
+riftlang self-governing driver & binding specification.md
+contextual swiichting.pdf
+$rxd9ode.pdf
+rifter_ecosystem_whitepaper (8) - copy.pdf
+memory_self_role_mask.pdf
+$ixd9ode.pdf
+OBINexus RIFT-N Sinphasé Integration Plan.pdf
+rifter_ecosystem_whitepaper.pdf
+$r2lqwin.pdf
+Gossip Language Governance Layer.pdf
+RIFT Stage 0 Tokenization System_ Complete Implementation Plan.pdf
+RIFT Toolchain Governance Compliance Framework.pdf
+riftlang self-governing driver & binding specification.pdf
+specification_classic_and
+$i2lqwin.pdf
+building_belief_into_code.pdf
+rift token architecture_ memory-type associations.pdf
+riftlang_implementation_specification.pdf
+riftlang_lexer_specification.md
+governing meaning_ the rift architecture of certainty - copy.pdf
+technical documentation - memory goveranace in the rift ecosystem.pdf
+MILESTONE_02_7_2025.md
+AEGIS Project Updated Implementation Plan - July 2025.pdf
+Variadic Strategy in Multi-Dimensional Context.pdf
+phantom_decoder.py
+Cryptographic_Standard_V1_0.pdf
+Formal Proof of Zzero-Knowledge Protocol.pdf
+implementation_strategy.md
+Formal_Analysis_of_Game_Theory_for_Algorithm.md
+RIFT-0 Tokenizer Header Files_ Clean Structure for AEGIS Framework Compatibility.pdf
+hotwiring_architecture.md
+Telemetry Debugging via GUID and Timestamp Integration.pdf
+Unicode_Only_Structural_Charset_Normalizer.md
+Rift Architecture Gossip (11).pdf
+hotwiring_overview.md
+enhanced_chapter_6.md
+ZERO_KNOWLEDGE_PROOF.md
+Automaton State Minimization and AST Optimization.pdf
+Varidaic_Strategy.md
+Dimensional_Game_Theory.pdf
+Formal_Mathemitical_Reasoning_System.pdf
+RIFT Stage 0 Tokenization System_ Complete Implementation Plan.pdf
+README.md
+repo_structure.md
+Enhanced Chapter 6_ Git-RAF Integration.pdf
+Dimensional_Game_Theory.md
+Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+RIFT Repository README.md.pdf
+gateway_theory_2.pdf
+bachelor_back.jpg
+bachelor_front.jpg
+incremental_edit_loop.md
+README.md
+crypto_std.jpg
+rift_stage-N.png
+rift_raf.png
+OBINexusNnamdi.png
+favicon.png
+rift_bytecode.webp
+rift_flow.png
+Doxyfile.in
+README.md
+RIFT_Integration_Standard_v4.0.0.md
+README.md
+Cryptographic_Standard_V1_0.pdf
+Formal Proof of Zzero-Knowledge Protocol.pdf
+Thread Safety Implementation in Gosilang - A Formal Analysis (1).pdf
+State Machine Minization - An Application Based Case Study  on Tennis.pdf
+Automaton State Minimization and AST Optimization.pdf
+Aegis.pdf
+README.md
+Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+README.pdf
+Extended Automaton-AST Minimization and Validation.pdf
+Formal_Mathemitical_Reasoning_System (1).pdf
+sinphase_documentation.pdf
+Variadic Strategy in Multi-Dimensional Context.pdf
+phantom_decoder.py
+Cryptographic_Standard_V1_0.pdf
+Formal Proof of Zzero-Knowledge Protocol.pdf
+Thread Safety Implementation in Gosilang - A Formal Analysis (1).pdf
+Telemetry Debugging via GUID and Timestamp Integration.pdf
+ZERO_KNOWLEDGE_PROOF.md
+Dimensional_Game_Theory.pdf
+Aegis.pdf
+README.md
+Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+tennis_tracker.py
+Enhanced Chapter 6_ Git-RAF Integration.pdf
+Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+State Machine Optimization in Tennis Score Tracking.md
+Formal_Mathemitical_Reasoning_System (1).pdf
+sinphase_documentation.pdf

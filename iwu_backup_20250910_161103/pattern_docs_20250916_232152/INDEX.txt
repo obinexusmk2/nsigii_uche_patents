@@ -1,0 +1,28 @@
+=== OBINexus Patent Documentation Index ===
+Repository: iwu_backup_20250910_161103
+Docs Location: docs
+Source Path: ./iwu_backup_20250910_161103/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_iwu_backup_20250910_161103_docs
+Files Extracted: 17
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+IWU Repository README - Updated with Images.pdf
+OBINEXUS Open Access XTRA Vision Document.md
+obinexus-iwu-uche-division.md
+CIVIL Collaspe By Nnamdi.pdf
+obinexus-housing-protocol.md
+obinexus-constitutional-clause.md
+thurock-hostel-proposal.md
+gdpr_nexus_spec.md
+OBINEXUS Open Access Vision Document.md
+OBIX Heart UI UX Philosophy _250906_091649.pdf
+romford_court_deferral_27082025.md
+OBINexus IWU Cultural Sovereignty and Business Card Vision Document.pdf
+OBINexus Constitutional Clause_ Foundation Hostile Conflict of Interest.pdf
+OBINEXUS Open Access Vision Document.pdf
+OBINexus Iwu Uche Division - Design Knowledge Framework.pdf
+OBINEXUS Open Access XTRA Vision Document.pdf
+GDPR SAR Compliance & Nexus Search Formal Specification.pdf

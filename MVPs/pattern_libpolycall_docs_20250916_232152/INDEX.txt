@@ -1,0 +1,18 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: libpolycall/docs
+Source Path: ./MVPs/libpolycall/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_libpolycall_docs
+Files Extracted: 7
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+PLAN.md
+LibPolyCall Glue Philosophy & Anti-Pattern Prevention Guide.md
+ARCHITECTURE.md
+TRIAL.md
+FEATURES.md
+LibPolyCall – Semantic Version X FFI Adapter Vision.pdf
+USAGE.md

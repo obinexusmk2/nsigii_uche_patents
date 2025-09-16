@@ -1,0 +1,12 @@
+=== OBINexus Patent Documentation Index ===
+Repository: qft_iso
+Docs Location: docs
+Source Path: ./qft_iso/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_qft_iso_docs
+Files Extracted: 1
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+DimensionalFeynamDAG.png

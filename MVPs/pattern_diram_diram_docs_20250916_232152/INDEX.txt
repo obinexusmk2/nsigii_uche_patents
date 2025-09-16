@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: diram/diram/docs
+Source Path: ./MVPs/diram/diram/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_diram_diram_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+README.pdf
+DIRAM_PLAN.md

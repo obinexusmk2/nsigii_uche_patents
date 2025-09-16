@@ -1,0 +1,16 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: rifttest/docs
+Source Path: ./MVPs/rifttest/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_rifttest_docs
+Files Extracted: 5
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+riftest-documentation.md
+RIFTEST Documentation - QA Testing Framework.pdf
+toolchain.plantuml
+rift-readme.md
+rift-integration-guide.md

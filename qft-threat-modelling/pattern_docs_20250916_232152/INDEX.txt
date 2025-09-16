@@ -1,0 +1,16 @@
+=== OBINexus Patent Documentation Index ===
+Repository: qft-threat-modelling
+Docs Location: docs
+Source Path: ./qft-threat-modelling/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_qft-threat-modelling_docs
+Files Extracted: 5
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+qft-threat-readme.md
+threat_evolution.gif
+Vision Document_ Dimensional Game Theory Integration with Quantum Threat Modeling.pdf
+side_channel_attack.png
+multi_stage_attack.png

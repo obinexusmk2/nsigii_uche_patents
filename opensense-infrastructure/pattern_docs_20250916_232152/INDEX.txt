@@ -1,0 +1,12 @@
+=== OBINexus Patent Documentation Index ===
+Repository: opensense-infrastructure
+Docs Location: docs
+Source Path: ./opensense-infrastructure/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_opensense-infrastructure_docs
+Files Extracted: 1
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+opensense-neurodivergent-plantuml

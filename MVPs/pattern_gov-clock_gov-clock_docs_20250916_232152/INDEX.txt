@@ -1,0 +1,16 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: gov-clock/gov-clock/docs
+Source Path: ./MVPs/gov-clock/gov-clock/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_gov-clock_gov-clock_docs
+Files Extracted: 5
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+gov_clock_readme.md
+obinexus_cmake_build_system.md
+Enhanced Chapter 6_ Git-RAF Integration.pdf
+OBINexus Zero Trust Topology UML Architecture.pdf
+obinexus_zero_trust_topology.md

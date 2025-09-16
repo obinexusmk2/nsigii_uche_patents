@@ -1,0 +1,240 @@
+=== OBINexus Patent Documentation Master Index ===
+Generated: 20250916_232152
+Session: OBINEXUS_DEEP_SEARCH_20250916_232152
+
+Statistics:
+- Repositories Scanned: 172
+- Docs Folders Found: 204
+- Successful Extractions: 188
+- Zone Files Cleaned: 0
+- Constitutional Compliance: VERIFIED
+- PhantomID Coherence: 0.954
+
+Extraction Details:
+
+Repository: AITools
+  Patterns extracted: 1
+    - pattern_DocsGPT_docs_20250916_232152: 69 files
+
+Repository: as2-splicing
+  Patterns extracted: 1
+    - pattern_feedback_loop_coherance_docs_20250916_232152: 2 files
+
+Repository: auraseal512
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 6 files
+
+Repository: avatars
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 6 files
+
+Repository: backups
+  Patterns extracted: 1
+    - pattern_patents_20250907_163930_patents_obiai_docs_20250916_232152: 2 files
+
+Repository: diramc
+  Patterns extracted: 3
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 6 files
+    - pattern_poc_docs_20250916_232152: 1 files
+
+Repository: gating
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 19 files
+
+Repository: gini
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 7 files
+
+Repository: git-raf
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 16 files
+
+Repository: git-sdx
+  Patterns extracted: 3
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 13 files
+    - pattern_docs_docs_20250916_232152: 5 files
+
+Repository: gosilabs
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 7 files
+
+Repository: iaas
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 2 files
+
+Repository: iwu
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 29 files
+
+Repository: iwu_backup_20250910_161103
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 17 files
+
+Repository: libpolycall
+  Patterns extracted: 6
+    - pattern_20250916_231737: 0 files
+    - pattern_20250916_231843: 65 files
+    - pattern_bindings_pypolycall-outdated_docs_20250916_232152: 0 files
+    - pattern_docs_20250916_232152: 65 files
+    - pattern_isolated_bindings_pypolycall_docs_20250916_232152: 0 files
+    - pattern_v2_polycall-v2_docs_20250916_232152: 5 files
+
+Repository: MVPs
+  Patterns extracted: 16
+    - pattern_axis_docs_20250916_232152: 3 files
+    - pattern_diram_diramc_docs_20250916_232152: 6 files
+    - pattern_diram_diram_docs_20250916_232152: 2 files
+    - pattern_git-raf_git-raf_docs_20250916_232152: 16 files
+    - pattern_gosilabs_docs_20250916_232152: 7 files
+    - pattern_gov-clock_gov-clock_docs_20250916_232152: 5 files
+    - pattern_libpolycall_bindings_pypolycall-outdated_docs_20250916_232152: 0 files
+    - pattern_libpolycall_docs_20250916_232152: 7 files
+    - pattern_libpolycall_(isolated)_bindings_pypolycall_docs_20250916_232152: 0 files
+    - pattern_nexus-search_nexus-search_nofs_docs_20250916_232152: 5 files
+    - pattern_nexus-search_nexus-search_nofs_fixtures_vanilla_docs_20250916_232152: 2 files
+    - pattern_OBIX_dom-asm.MVP-31_docs_20250916_232152: 6 files
+    - pattern_OBIX_DOM-Automaton-State-Miniiaztion-MVP.3_docs_20250916_232152: 6 files
+    - pattern_rifttest_docs_20250916_232152: 5 files
+    - pattern_services_computing_hardware_dch-core-interface_docs_20250916_232152: 1 files
+    - pattern_zerocall_node-zero_docs_20250916_232152: 12 files
+
+Repository: nexus-search
+  Patterns extracted: 2
+    - pattern_nexus-search_nofs_docs_20250916_232152: 5 files
+    - pattern_nexus-search_nofs_fixtures_vanilla_docs_20250916_232152: 2 files
+
+Repository: node-zero
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 12 files
+
+Repository: obielf
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 15 files
+
+Repository: obinexus
+  Patterns extracted: 8
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 11 files
+    - pattern_obinexus_dop_adapter_docs_20250916_232152: 3 files
+    - pattern_obinexus_hypenum_docs_20250916_232152: 3 files
+    - pattern_obinexus_libpolycall_docs_20250916_232152: 3 files
+    - pattern_obinexus_nexus-search_docs_20250916_232152: 3 files
+    - pattern_obinexus_node-zero_docs_20250916_232152: 3 files
+    - pattern_obinexus_obix_docs_20250916_232152: 3 files
+
+Repository: ogike-core
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 2 files
+
+Repository: opensense-infrastructure
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 1 files
+
+Repository: PBCLI_Phenomic_Brian_Computing_Lensing_Interface
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 18 files
+
+Repository: phantomid
+  Patterns extracted: 1
+    - pattern_phantomid_docs_20250916_232152: 2 files
+
+Repository: phenomic_lensing_protocol
+  Patterns extracted: 1
+    - pattern_examples_pheno_happiness_docs_20250916_232152: 3 files
+
+Repository: pi
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 1 files
+
+Repository: polycall
+  Patterns extracted: 5
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 120 files
+    - pattern_docs_pdf_docs_20250916_232152: 3 files
+    - pattern_fixtures_polic-dev_polic_docs_20250916_232152: 5 files
+    - pattern_v1_polycall_docs_20250916_232152: 5 files
+
+Repository: qft_iso
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 1 files
+
+Repository: qft-threat-modelling
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 5 files
+
+Repository: riftlang
+  Patterns extracted: 2
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 45 files
+
+Repository: rift-N
+  Patterns extracted: 19
+    - pattern_20250916_231737: 0 files
+    - pattern_docs_20250916_232152: 121 files
+    - pattern_rift-0_docs_20250916_232152: 48 files
+    - pattern_rift-core_docs_20250916_232152: 1 files
+    - pattern_rift-core_setup_rift-core_docs_20250916_232152: 0 files
+    - pattern_riftlang-main_docs_20250916_232152: 45 files
+    - pattern_riftlang-v1trial-main_docs_20250916_232152: 45 files
+    - pattern_rift-old_riftlang_docs_20250916_232152: 45 files
+    - pattern_rift-old_riftold_rift-poc_rift0_artifacts_docs_20250916_232152: 8 files
+    - pattern_rift-old_riftold_rift-poc_rift0_docs_20250916_232152: 1 files
+    - pattern_rift-old_riftold_rift-poc_rift1_docs_20250916_232152: 1 files
+    - pattern_rift-old_riftold_rift-poc_rift-poc-old-main_artifacts_docs_20250916_232152: 8 files
+    - pattern_rift-old_rift-poc_rift0_artifacts_docs_20250916_232152: 8 files
+    - pattern_rift-old_rift-poc_rift0_docs_20250916_232152: 1 files
+    - pattern_rift-old_rift-poc_rift1_docs_20250916_232152: 1 files
+    - pattern_rift-old_rift-poc_rift-poc-old-main_artifacts_docs_20250916_232152: 8 files
+    - pattern_rift-poc_docs_20250916_232152: 124 files
+    - pattern_rift-poc_rift-0_docs_20250916_232152: 126 files
+    - pattern_tools_ad-hoc_rift-core_docs_20250916_232152: 0 files
+
+Repository: riftylabs-2025
+  Patterns extracted: 18
+    - pattern_riftylabs-2025_rift-N_docs_20250916_232152: 121 files
+    - pattern_riftylabs-2025_rift-N_rift-0_docs_20250916_232152: 48 files
+    - pattern_riftylabs-2025_rift-N_rift-core_docs_20250916_232152: 1 files
+    - pattern_riftylabs-2025_rift-N_rift-core_setup_rift-core_docs_20250916_232152: 0 files
+    - pattern_riftylabs-2025_rift-N_riftlang-main_docs_20250916_232152: 45 files
+    - pattern_riftylabs-2025_rift-N_riftlang-v1trial-main_docs_20250916_232152: 45 files
+    - pattern_riftylabs-2025_rift-N_rift-old_riftlang_docs_20250916_232152: 45 files
+    - pattern_riftylabs-2025_rift-N_rift-old_riftold_rift-poc_rift0_artifacts_docs_20250916_232152: 8 files
+    - pattern_riftylabs-2025_rift-N_rift-old_riftold_rift-poc_rift0_docs_20250916_232152: 1 files
+    - pattern_riftylabs-2025_rift-N_rift-old_riftold_rift-poc_rift1_docs_20250916_232152: 1 files
+    - pattern_riftylabs-2025_rift-N_rift-old_riftold_rift-poc_rift-poc-old-main_artifacts_docs_20250916_232152: 8 files
+    - pattern_riftylabs-2025_rift-N_rift-old_rift-poc_rift0_artifacts_docs_20250916_232152: 8 files
+    - pattern_riftylabs-2025_rift-N_rift-old_rift-poc_rift0_docs_20250916_232152: 1 files
+    - pattern_riftylabs-2025_rift-N_rift-old_rift-poc_rift1_docs_20250916_232152: 1 files
+    - pattern_riftylabs-2025_rift-N_rift-old_rift-poc_rift-poc-old-main_artifacts_docs_20250916_232152: 8 files
+    - pattern_riftylabs-2025_rift-N_rift-poc_docs_20250916_232152: 124 files
+    - pattern_riftylabs-2025_rift-N_rift-poc_rift-0_docs_20250916_232152: 126 files
+    - pattern_riftylabs-2025_rift-N_tools_ad-hoc_rift-core_docs_20250916_232152: 0 files
+
+Repository: services
+  Patterns extracted: 2
+    - pattern_computing_blueshare-polyglot-exosketelon_docs_20250916_232152: 2 files
+    - pattern_computing_hardware_dch-core-interface_docs_20250916_232152: 1 files
+
+Repository: yt
+  Patterns extracted: 2
+    - pattern_obi_vision_mode_docs_20250916_232152: 2 files
+    - pattern_rift_docs_20250916_232152: 126 files

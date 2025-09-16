@@ -1,0 +1,26 @@
+=== OBINexus Patent Documentation Index ===
+Repository: obielf
+Docs Location: docs
+Source Path: ./obielf/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_obielf_docs
+Files Extracted: 15
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+irp_intuition_layer.h
+shared_problem_space.md
+policy_attachment_module.c
+irp_intuition_layer.c
+.gitkeep
+performance_considerations.md
+future_extensions.md
+security_trust_model.md
+librift_integration.txt
+ast_aware_architecture.md
+reference_and_technical.md
+post_processing_architecture.c
+validation_testing_framework.h
+ast_aware_system.h
+ast_contextualization.c

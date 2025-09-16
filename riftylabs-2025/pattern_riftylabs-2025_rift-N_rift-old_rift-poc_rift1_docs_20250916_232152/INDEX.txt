@@ -1,0 +1,12 @@
+=== OBINexus Patent Documentation Index ===
+Repository: riftylabs-2025
+Docs Location: riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs
+Source Path: ./riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_riftylabs-2025_riftylabs-2025_rift-N_rift-old_rift-poc_rift1_docs
+Files Extracted: 1
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+ARCHITECTURE.md

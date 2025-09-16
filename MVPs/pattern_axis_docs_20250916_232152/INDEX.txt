@@ -1,0 +1,14 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: axis/docs
+Source Path: ./MVPs/axis/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_axis_docs
+Files Extracted: 3
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+creative-project-master.pdf
+telemetry-architecture.pdf
+creative-portfolio.pdf

@@ -1,0 +1,17 @@
+=== OBINexus Patent Documentation Index ===
+Repository: avatars
+Docs Location: docs
+Source Path: ./avatars/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_avatars_docs
+Files Extracted: 6
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+1325sun14sep.pdf
+Geometric Gene Computation_ Complete Specification.pdf
+Igbo Woven Symbols Research.pdf
+Personal development disorders avatar healing_250914_132503.pdf
+Today_250830_094820_obinnexus_brianstorm (3).pdf
+Nsibidi_Workbook_1.pdf

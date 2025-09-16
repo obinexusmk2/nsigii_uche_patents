@@ -1,0 +1,19 @@
+=== OBINexus Patent Documentation Index ===
+Repository: rift-N
+Docs Location: rift-old/rift-poc/rift-poc-old-main/artifacts/docs
+Source Path: ./rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_rift-N_rift-old_rift-poc_rift-poc-old-main_artifacts_docs
+Files Extracted: 8
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+LIBRIFT.md
+LibRift Regexp.md
+regex_automaton.tex
+ir_spec.md
+regex_states.md
+automaton.md
+regex_automaton.pdf
+regex_automaton.log

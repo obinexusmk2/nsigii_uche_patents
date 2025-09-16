@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: as2-splicing
+Docs Location: feedback_loop_coherance/docs
+Source Path: ./as2-splicing/feedback_loop_coherance/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_as2-splicing_feedback_loop_coherance_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+feedback-loop-readme.md
+geometric_gene_computation_spec.md

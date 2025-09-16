@@ -1,0 +1,18 @@
+=== OBINexus Patent Documentation Index ===
+Repository: gini
+Docs Location: docs
+Source Path: ./gini/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_gini_docs
+Files Extracted: 7
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+GINI Poem Line-by-Line IaaS Interpretation.pdf
+GINI_ The Consciousness Mirror - A RIFTer's Companion Poem.pdf
+rifter-gini-stanzas (1).md
+image.png
+gini-poem-interpretation.md
+gini-mirror-poem (4).md
+GINI & Gosilang_ Complete Technical Specification.pdf

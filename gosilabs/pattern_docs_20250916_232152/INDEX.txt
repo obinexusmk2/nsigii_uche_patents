@@ -1,0 +1,18 @@
+=== OBINexus Patent Documentation Index ===
+Repository: gosilabs
+Docs Location: docs
+Source Path: ./gosilabs/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_gosilabs_docs
+Files Extracted: 7
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+How to RIFT Series - The GOSSIP Programming Language .docx
+How to RIFT Series - The GOSSIP Programming Language .pdf
+~$w to RIFT Series - The GOSSIP Programming Language .docx
+The Gosilang Manifesto.pdf
+MANIFESTO.md
+gosilang_mvp_grammar_macros_and_c_skeleton_bind_unbind_vec_span_nil_null.md
+The Gosilang Manifesto.md

@@ -1,0 +1,14 @@
+=== OBINexus Patent Documentation Index ===
+Repository: phenomic_lensing_protocol
+Docs Location: examples/pheno_happiness/docs
+Source Path: ./phenomic_lensing_protocol/examples/pheno_happiness/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_phenomic_lensing_protocol_examples_pheno_happiness_docs
+Files Extracted: 3
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+pheno_happiness.plantuml
+pheno.png
+phona.svg

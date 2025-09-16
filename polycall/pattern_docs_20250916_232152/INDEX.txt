@@ -1,0 +1,131 @@
+=== OBINexus Patent Documentation Index ===
+Repository: polycall
+Docs Location: docs
+Source Path: ./polycall/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_polycall_docs
+Files Extracted: 120
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+obinexus-makefile-fixes-guide.md
+mapping.yaml
+LFS-LIBPOLYCALL.md
+ARCHITECTURE.md
+code_ai_4agent_framework.md
+PLAN.md
+FEATURES.md
+USAGE.md
+Zero Trust Authentication in LibPolyCall.pdf
+New Features in LibPolyCall_ Technical Overview.pdf
+Language-Specific Binding in LibPolyCall_ Implementation Guide.pdf
+Data Isolation Through Micro Command_ Technical Implementation.pdf
+faviconv1.png
+welcome.md
+hacc-human-advocacy-compliance-cycle.md
+right_to_act_clause.md
+LICENSE
+use-it-respect-it.md
+inclusive-responsive-web-design-article.md
+OBINexus Constitutional Ecosystem README.pdf
+Universal Pension Allocation for Human Rights Enforcement - OBINexus Constitutional Clause.pdf
+OBINexus Constitutional Legal Framework.pdf
+OBIAxis Division Charter - Epistemological Alignment Authority.pdf
+OBINexus Constitutional Legal Framework_ Machine-Verifiable Governance Code.pdf
+OBINexus Constitutional Clause_ Department-to-Division Transition Protocol.pdf
+Right to Act Human Rights Clause - Constitutional Implementation.pdf
+Dark Psychology Mitigation & Disability Rights Enforcement Specification.pdf
+The Truth Project.pdf
+OBINexus UI_UX Infrastructure Specification.pdf
+README.md
+obinexus-constitutional-framework.md
+department_division_clause.md
+human-rights-enforcement-clause.md
+obinexus-constitutional-legal-code.md
+obinexus-constructive-use-constitutional-protection.md
+dark-psychology-mitigation-spec.md
+dark-psychology-mitigation.md
+obinexus-uiux-infrastructure-specification.md
+obiaxis_division_charter.md
+legal-index.md
+zero_trust_qa_framework_for_polycall.md
+auth.md
+protocol.md
+config.md
+accessibility.md
+network.md
+telemetry.md
+build-protocol.plantuml
+polybuild-architecture.puml
+graph.png
+Cryptographic_Standard_V1_0.pdf
+ButtonLogic.js
+domain_sepcific.tsx
+example.tsx
+renderFunc.js
+renderOOP.js
+main.js
+README.md
+Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+package.json
+DOPAdapter.js
+data-isolation-blog.md
+nnamdi.png
+PLAN.md
+micro_dop_integration.md
+ZT_Protocol_v3.3.md
+Cryptographic_Standard_V1_0.pdf
+Thread Safety Implementation in Gosilang - A Formal Analysis (1).pdf
+Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+ARCHITECTURE.md
+README.md
+new-features-blog.md
+Formal_Mathemitical_Reasoning_System.pdf
+libpolycall.plantuml
+dop_implementation_roadmap.md
+README.md
+project_state_20250716.md
+readiness_assessment.md
+tagging_workflow_guide.md
+naming_standards.md
+zero-trust-blog.md
+ws2s_integration.md
+documentation-qa.md
+dynamic-static-cost-function.md
+cmake_master_plan.md
+README.pdf
+implementation_strategy.md
+hotwiring_architecture.md
+hotwiring_adapter_integration.md
+hotwiring_overview.md
+README.md
+repo_structure.md
+hotwiring_adapter_integration_spec.md
+backward_compatibility.md
+PLAN.pdf
+polkov_v2_task_schema.md
+obinexus-makefile-fixes-guide.md
+LibPolyCall v2 Binding Layer Development Plan.pdf
+PolyBuild_Architecture.pdf
+PolyBuild_Architecture.svg
+style.css
+LibPolyCall_v2_Architecture.svg
+LibPolyCall_v2_Architecture.pdf
+faviconv1.png
+graph.png
+nnamdi.png
+favicon.png
+libpolycall.png
+founder.png
+LibPolyCall_v2_Architecture.png
+PolyBuild_Architecture.png
+QUALITY_ASSURANCE.md
+overview.md
+README.md
+SINPHASE_RECOVERY_REPORT.md
+code_ai_4agent_task_framework.md
+sinphase_documentation.pdf
+task_schema_phase1.md
+language-binding-blog.md

@@ -1,0 +1,30 @@
+=== OBINexus Patent Documentation Index ===
+Repository: gating
+Docs Location: docs
+Source Path: ./gating/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_gating_docs
+Files Extracted: 19
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+GATING.md
+My Dystopia – Album by OBINexus Nnamdi Michael Okpala.pdf
+obinexus_technical_documentation.md
+systematic-harm-calculation.md
+civil-collapse-distributed-governance.md
+CIVIL Collaspe By Nnamdi.pdf
+HITL2HOTL_V2.md
+NHS Compalnt WTF is your Dev Doing.pdf
+Nnamdi Okpala - Not homeless. Case ref_1083077......pdf
+README.md
+DISCLIAMER.md
+DISCLAIMER.md - Framework Origins and Human Cost.pdf
+nnamdi-okpala.png
+obi.png
+Ellingham Hospital.jpg
+Homeless Review.pdf
+README with Subjective-Objective Gap Resolution.pdf
+may27foodempty.m4a
+REFORM.md

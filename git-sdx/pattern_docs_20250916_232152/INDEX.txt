@@ -1,0 +1,24 @@
+=== OBINexus Patent Documentation Index ===
+Repository: git-sdx
+Docs Location: docs
+Source Path: ./git-sdx/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_git-sdx_docs
+Files Extracted: 13
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+CACHING.md
+NexusSearch.old.md
+NexusSearch.md
+API.md
+USAGE.md
+nexus_search_breakthrough_doc.md
+README.md
+gt_sdx_topology.png
+system_design_phases.png
+TODO.md
+TODO(NOW).md
+component-view.plantuml
+network-topology.plantuml

@@ -1,0 +1,22 @@
+=== OBINexus Patent Documentation Index ===
+Repository: obinexus
+Docs Location: docs
+Source Path: ./obinexus/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_obinexus_docs
+Files Extracted: 11
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+OBINexus_WORK.md
+OBINexus_ Systems from the Heart - White Paper.pdf
+eCertificate [Okpala, Nnamdi 19-05-2001 ULN 7614107038] [Q] Gateway Qualifications Level 2 Diploma In IT User Skills (ITQ)....pdf
+index.html
+manifest.json
+index.html
+manifest.json
+eCertificate [Okpala, Nnamdi 19-05-2001 ULN 7614107038] [U] Gateway Qualifications Level 2 Diploma In IT User Skills (ITQ)....pdf
+unit_circle_sine_cosine_derivatives.svg
+index.html
+manifest.json

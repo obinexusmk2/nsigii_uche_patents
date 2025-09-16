@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: yt
+Docs Location: obi_vision_mode/docs
+Source Path: ./yt/obi_vision_mode/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_yt_obi_vision_mode_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+triad_prism_spectrum_svg_html.pdf
+triad_prism_spectrum_svg_html.png

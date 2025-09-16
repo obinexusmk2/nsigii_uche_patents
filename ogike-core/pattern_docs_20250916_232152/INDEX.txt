@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: ogike-core
+Docs Location: docs
+Source Path: ./ogike-core/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_ogike-core_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+qft-force-field-formal.md
+qft-force-field-latex.tex

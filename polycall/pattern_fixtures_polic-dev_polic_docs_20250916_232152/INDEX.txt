@@ -1,0 +1,16 @@
+=== OBINexus Patent Documentation Index ===
+Repository: polycall
+Docs Location: fixtures/polic-dev/polic/docs
+Source Path: ./polycall/fixtures/polic-dev/polic/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_polycall_fixtures_polic-dev_polic_docs
+Files Extracted: 5
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+.gitkeep
+.gitkeep
+migration-plan.md
+project-plan.md
+.gitkeep

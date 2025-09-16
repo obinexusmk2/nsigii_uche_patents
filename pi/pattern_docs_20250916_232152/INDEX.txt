@@ -1,0 +1,12 @@
+=== OBINexus Patent Documentation Index ===
+Repository: pi
+Docs Location: docs
+Source Path: ./pi/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_pi_docs
+Files Extracted: 1
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+infinity-classification.md

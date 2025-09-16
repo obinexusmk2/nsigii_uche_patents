@@ -1,0 +1,16 @@
+=== OBINexus Patent Documentation Index ===
+Repository: nexus-search
+Docs Location: nexus-search_nofs/docs
+Source Path: ./nexus-search/nexus-search_nofs/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_nexus-search_nexus-search_nofs_docs
+Files Extracted: 5
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+CACHING.md
+NexusSearch.old.md
+NexusSearch.md
+API.md
+USAGE.md

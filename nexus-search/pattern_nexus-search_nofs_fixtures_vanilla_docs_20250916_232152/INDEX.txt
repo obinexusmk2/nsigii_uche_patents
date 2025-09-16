@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: nexus-search
+Docs Location: nexus-search_nofs/fixtures/vanilla/docs
+Source Path: ./nexus-search/nexus-search_nofs/fixtures/vanilla/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_nexus-search_nexus-search_nofs_fixtures_vanilla_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+css_best_pratices.html
+FixingDropDown.md

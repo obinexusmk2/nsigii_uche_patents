@@ -1,0 +1,80 @@
+=== OBINexus Patent Documentation Index ===
+Repository: AITools
+Docs Location: DocsGPT/docs
+Source Path: ./AITools/DocsGPT/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_AITools_DocsGPT_docs
+Files Extracted: 69
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+package-lock.json
+ToolCards.jsx
+DeploymentCards.jsx
+How-to-train-on-other-documentation.mdx
+How-to-use-different-LLM.mdx
+_meta.json
+Customising-prompts.mdx
+Architecture.mdx
+My-AI-answers-questions-using-external-knowledge.mdx
+basics.mdx
+_meta.json
+creating-a-tool.mdx
+api-tool.mdx
+index.mdx
+changelog.mdx
+_meta.json
+local-inference.mdx
+_meta.json
+embeddings.md
+cloud-providers.mdx
+_app.mdx
+quickstart.mdx
+basics.mdx
+api.mdx
+_meta.json
+webhooks.mdx
+Development-Environment.mdx
+_meta.json
+Hosting-the-app.mdx
+Railway.mdx
+Kubernetes-Deploying.mdx
+Amazon-Lightsail.mdx
+DocsGPT-Settings.mdx
+Docker-Deploying.mdx
+search-widget.mdx
+chat-widget.mdx
+api-key-guide.mdx
+_meta.json
+Chatwoot-extension.mdx
+Chrome-extension.mdx
+next.config.js
+README.md
+theme.config.jsx
+kamatera.png
+civo.png
+jwt-input.png
+prompts.gif
+llms.gif
+lightsail.png
+apple-touch-icon.png
+favicon-32x32.png
+site.webmanifest
+favicon-16x16.png
+homevideo.gif
+docs.gif
+cute-docsgpt.png
+railway.png
+tool_postgres.svg
+tool_ntfy.svg
+tool_api_tool.svg
+api-tool-example.png
+tool_read_webpage.svg
+tool_cryptoprice.svg
+tool_telegram.svg
+tool_brave.svg
+Railway-selection.png
+digitalocean.png
+new-agent.png
+package.json

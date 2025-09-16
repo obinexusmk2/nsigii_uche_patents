@@ -1,0 +1,766 @@
+=== OBINexus Deep Search Docs Extraction ===
+Timestamp: 20250916_232152
+Session Continuity: ACTIVE
+PhantomID Coherence: 0.954
+================================================
+
+[0;32mStarting deep search extraction...[0m
+
+[0;34mScanning workspace: /home/obinexus/obinexus/workspace[0m
+[1;33mDeep searching in: AITools[0m
+[0;35m  📁 Found: DocsGPT/docs[0m
+[0;32m    ✓ Extracted 69 files from AITools/DocsGPT/docs[0m
+[1;33mDeep searching in: arty[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: as2-splicing[0m
+[0;35m  📁 Found: feedback_loop_coherance/docs[0m
+[0;32m    ✓ Extracted 2 files from as2-splicing/feedback_loop_coherance/docs[0m
+[1;33mDeep searching in: auraseal512[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from auraseal512/docs[0m
+[1;33mDeep searching in: avatars[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from avatars/docs[0m
+[1;33mDeep searching in: backups[0m
+[0;35m  📁 Found: patents_20250907_163930/patents/obiai/docs[0m
+[0;32m    ✓ Extracted 2 files from backups/patents_20250907_163930/patents/obiai/docs[0m
+[1;33mDeep searching in: bioergnormics[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: biz[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: blueshare[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: christmas-project[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: community[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: COOL[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: development[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: diramc[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from diramc/docs[0m
+[0;35m  📁 Found: poc/docs[0m
+[0;32m    ✓ Extracted 1 files from diramc/poc/docs[0m
+[1;33mDeep searching in: FreePalestine[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gameplex[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gatein[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gating[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 19 files from gating/docs[0m
+[1;33mDeep searching in: gini[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 7 files from gini/docs[0m
+[1;33mDeep searching in: giq[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter.bak[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter-old[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: git-raf[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 16 files from git-raf/docs[0m
+[1;33mDeep searching in: git-sdx[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 13 files from git-sdx/docs[0m
+[0;35m  📁 Found: docs/docs[0m
+[0;32m    ✓ Extracted 5 files from git-sdx/docs/docs[0m
+[1;33mDeep searching in: gosilabs[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 7 files from gosilabs/docs[0m
+[1;33mDeep searching in: housing_crisis_prompt[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: iaas[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 2 files from iaas/docs[0m
+[1;33mDeep searching in: iwu[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 29 files from iwu/docs[0m
+[1;33mDeep searching in: iwu_backup_20250910_161103[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 17 files from iwu_backup_20250910_161103/docs[0m
+[1;33mDeep searching in: iwu_reform[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: journal[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: legal[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: libpolycall[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 65 files from libpolycall/docs[0m
+[0;35m  📁 Found: bindings/pypolycall-outdated/docs[0m
+[0;35m  📁 Found: v2/polycall-v2/docs[0m
+[0;32m    ✓ Extracted 5 files from libpolycall/v2/polycall-v2/docs[0m
+[0;35m  📁 Found: isolated/bindings/pypolycall/docs[0m
+[1;33mDeep searching in: LICENSE[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MEMO_PROJECT_dimensional_game[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MEMO_PROJECT_sensor_theory[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-connect[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-glimpse[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-studios[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuoko-connect[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MVPs[0m
+[0;35m  📁 Found: gosilabs/docs[0m
+[0;32m    ✓ Extracted 7 files from MVPs/gosilabs/docs[0m
+[0;35m  📁 Found: diram/diram/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/diram/diram/docs[0m
+[0;35m  📁 Found: diram/diramc/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/diram/diramc/docs[0m
+[0;35m  📁 Found: libpolycall/docs[0m
+[0;32m    ✓ Extracted 7 files from MVPs/libpolycall/docs[0m
+[0;35m  📁 Found: libpolycall/bindings/pypolycall-outdated/docs[0m
+[0;35m  📁 Found: libpolycall/(isolated)/bindings/pypolycall/docs[0m
+[0;35m  📁 Found: OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs[0m
+[0;35m  📁 Found: OBIX/dom-asm.MVP-31/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/OBIX/dom-asm.MVP-31/docs[0m
+[0;35m  📁 Found: zerocall/node-zero/docs[0m
+[0;32m    ✓ Extracted 12 files from MVPs/zerocall/node-zero/docs[0m
+[0;35m  📁 Found: services/computing/hardware/dch-core-interface/docs[0m
+[0;32m    ✓ Extracted 1 files from MVPs/services/computing/hardware/dch-core-interface/docs[0m
+[0;35m  📁 Found: gov-clock/gov-clock/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/gov-clock/gov-clock/docs[0m
+[0;35m  📁 Found: git-raf/git-raf/docs[0m
+[0;32m    ✓ Extracted 16 files from MVPs/git-raf/git-raf/docs[0m
+[0;35m  📁 Found: nexus-search/nexus-search_nofs/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/nexus-search/nexus-search_nofs/docs[0m
+[0;35m  📁 Found: nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;35m  📁 Found: axis/docs[0m
+[0;32m    ✓ Extracted 3 files from MVPs/axis/docs[0m
+[0;35m  📁 Found: rifttest/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/rifttest/docs[0m
+[0;35m  📁 Found version folder: nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[1;33mDeep searching in: New folder[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: nexus-search[0m
+[0;35m  📁 Found: nexus-search_nofs/docs[0m
+[0;32m    ✓ Extracted 5 files from nexus-search/nexus-search_nofs/docs[0m
+[0;35m  📁 Found: nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;35m  📁 Found version folder: nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[1;33mDeep searching in: nlm_atlas[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: nlm_framework[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: node-zero[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 12 files from node-zero/docs[0m
+[1;33mDeep searching in: obielf[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 15 files from obielf/docs[0m
+[1;33mDeep searching in: obinexus[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 11 files from obinexus/docs[0m
+[0;35m  📁 Found: obinexus/obix/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/obix/docs[0m
+[0;35m  📁 Found: obinexus/hypenum/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/hypenum/docs[0m
+[0;35m  📁 Found: obinexus/libpolycall/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/libpolycall/docs[0m
+[0;35m  📁 Found: obinexus/node-zero/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/node-zero/docs[0m
+[0;35m  📁 Found: obinexus/nexus-search/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/nexus-search/docs[0m
+[0;35m  📁 Found: obinexus/dop_adapter/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/dop_adapter/docs[0m
+[1;33mDeep searching in: obivox[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: obix[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: ogike-core[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 2 files from ogike-core/docs[0m
+[1;33mDeep searching in: opensense-infrastructure[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from opensense-infrastructure/docs[0m
+[1;33mDeep searching in: opensense-motion[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: PBCLI_Phenomic_Brian_Computing_Lensing_Interface[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 18 files from PBCLI_Phenomic_Brian_Computing_Lensing_Interface/docs[0m
+[1;33mDeep searching in: pencall[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: phantomid[0m
+[0;35m  📁 Found: phantomid/docs[0m
+[0;32m    ✓ Extracted 2 files from phantomid/phantomid/docs[0m
+[1;33mDeep searching in: phenomic_lensing_protocol[0m
+[0;35m  📁 Found: examples/pheno_happiness/docs[0m
+[0;32m    ✓ Extracted 3 files from phenomic_lensing_protocol/examples/pheno_happiness/docs[0m
+[1;33mDeep searching in: pi[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from pi/docs[0m
+[1;33mDeep searching in: polycall[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 120 files from polycall/docs[0m
+[0;35m  📁 Found: docs/pdf/docs[0m
+[0;32m    ✓ Extracted 3 files from polycall/docs/pdf/docs[0m
+[0;35m  📁 Found: fixtures/polic-dev/polic/docs[0m
+[0;32m    ✓ Extracted 5 files from polycall/fixtures/polic-dev/polic/docs[0m
+[0;35m  📁 Found: v1/polycall/docs[0m
+[0;32m    ✓ Extracted 5 files from polycall/v1/polycall/docs[0m
+[1;33mDeep searching in: puppet-method-protocol[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: qft_iso[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from qft_iso/docs[0m
+[1;33mDeep searching in: qft-threat-modelling[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 5 files from qft-threat-modelling/docs[0m
+[1;33mDeep searching in: research[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rift[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftarch[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftaux[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftbridge[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rifters_way[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftest[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftgov[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftin[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rift-iq[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftiwu[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftlang[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 45 files from riftlang/docs[0m
+[1;33mDeep searching in: rift-N[0m
+[0;35m  📁 Found: tools/ad-hoc/rift-core/docs[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 121 files from rift-N/docs[0m
+[0;35m  📁 Found: riftlang-v1trial-main/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/riftlang-v1trial-main/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: rift-old/riftlang/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/rift-old/riftlang/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: rift-poc/docs[0m
+[0;32m    ✓ Extracted 124 files from rift-N/rift-poc/docs[0m
+[0;35m  📁 Found: rift-poc/rift-0/docs[0m
+[0;32m    ✓ Extracted 126 files from rift-N/rift-poc/rift-0/docs[0m
+[0;35m  📁 Found: rift-core/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-core/docs[0m
+[0;35m  📁 Found: rift-core/setup/rift-core/docs[0m
+[0;35m  📁 Found: riftlang-main/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/riftlang-main/docs[0m
+[0;35m  📁 Found: rift-0/docs[0m
+[0;32m    ✓ Extracted 48 files from rift-N/rift-0/docs[0m
+[1;33mDeep searching in: riftraf[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftsdx[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftylabs-2025[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/tools/ad-hoc/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/docs[0m
+[0;32m    ✓ Extracted 121 files from riftylabs-2025/riftylabs-2025/rift-N/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/riftlang-v1trial-main/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/riftlang-v1trial-main/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftlang/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftlang/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-poc/docs[0m
+[0;32m    ✓ Extracted 124 files from riftylabs-2025/riftylabs-2025/rift-N/rift-poc/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-poc/rift-0/docs[0m
+[0;32m    ✓ Extracted 126 files from riftylabs-2025/riftylabs-2025/rift-N/rift-poc/rift-0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-core/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-core/setup/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/riftlang-main/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/riftlang-main/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-0/docs[0m
+[0;32m    ✓ Extracted 48 files from riftylabs-2025/riftylabs-2025/rift-N/rift-0/docs[0m
+[1;33mDeep searching in: rust-semverx[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: services[0m
+[0;35m  📁 Found: computing/hardware/dch-core-interface/docs[0m
+[0;32m    ✓ Extracted 1 files from services/computing/hardware/dch-core-interface/docs[0m
+[0;35m  📁 Found: computing/blueshare-polyglot-exosketelon/docs[0m
+[0;32m    ✓ Extracted 2 files from services/computing/blueshare-polyglot-exosketelon/docs[0m
+[1;33mDeep searching in: textbooks-entries[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: U_frameworks[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: V[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: Videos[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: yt[0m
+[0;35m  📁 Found: rift/docs[0m
+[0;32m    ✓ Extracted 126 files from yt/rift/docs[0m
+[0;35m  📁 Found: obi_vision_mode/docs[0m
+[0;32m    ✓ Extracted 2 files from yt/obi_vision_mode/docs[0m
+[0;34mScanning workspace: .[0m
+[1;33mDeep searching in: AITools[0m
+[0;35m  📁 Found: DocsGPT/docs[0m
+[0;32m    ✓ Extracted 69 files from AITools/DocsGPT/docs[0m
+[1;33mDeep searching in: arty[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: as2-splicing[0m
+[0;35m  📁 Found: feedback_loop_coherance/docs[0m
+[0;32m    ✓ Extracted 2 files from as2-splicing/feedback_loop_coherance/docs[0m
+[1;33mDeep searching in: auraseal512[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from auraseal512/docs[0m
+[1;33mDeep searching in: avatars[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from avatars/docs[0m
+[1;33mDeep searching in: backups[0m
+[0;35m  📁 Found: patents_20250907_163930/patents/obiai/docs[0m
+[0;32m    ✓ Extracted 2 files from backups/patents_20250907_163930/patents/obiai/docs[0m
+[1;33mDeep searching in: bioergnormics[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: biz[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: blueshare[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: christmas-project[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: community[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: COOL[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: development[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: diramc[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 6 files from diramc/docs[0m
+[0;35m  📁 Found: poc/docs[0m
+[0;32m    ✓ Extracted 1 files from diramc/poc/docs[0m
+[1;33mDeep searching in: FreePalestine[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gameplex[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gatein[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gating[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 19 files from gating/docs[0m
+[1;33mDeep searching in: gini[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 7 files from gini/docs[0m
+[1;33mDeep searching in: giq[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter.bak[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: gitbook-sdx-adapter-old[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: git-raf[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 16 files from git-raf/docs[0m
+[1;33mDeep searching in: git-sdx[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 13 files from git-sdx/docs[0m
+[0;35m  📁 Found: docs/docs[0m
+[0;32m    ✓ Extracted 5 files from git-sdx/docs/docs[0m
+[1;33mDeep searching in: gosilabs[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 7 files from gosilabs/docs[0m
+[1;33mDeep searching in: housing_crisis_prompt[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: iaas[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 2 files from iaas/docs[0m
+[1;33mDeep searching in: iwu[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 29 files from iwu/docs[0m
+[1;33mDeep searching in: iwu_backup_20250910_161103[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 17 files from iwu_backup_20250910_161103/docs[0m
+[1;33mDeep searching in: iwu_reform[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: journal[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: legal[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: libpolycall[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 65 files from libpolycall/docs[0m
+[0;35m  📁 Found: bindings/pypolycall-outdated/docs[0m
+[0;35m  📁 Found: v2/polycall-v2/docs[0m
+[0;32m    ✓ Extracted 5 files from libpolycall/v2/polycall-v2/docs[0m
+[0;35m  📁 Found: isolated/bindings/pypolycall/docs[0m
+[1;33mDeep searching in: LICENSE[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MEMO_PROJECT_dimensional_game[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MEMO_PROJECT_sensor_theory[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-connect[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-glimpse[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuko-studios[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: mmuoko-connect[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: MVPs[0m
+[0;35m  📁 Found: gosilabs/docs[0m
+[0;32m    ✓ Extracted 7 files from MVPs/gosilabs/docs[0m
+[0;35m  📁 Found: diram/diram/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/diram/diram/docs[0m
+[0;35m  📁 Found: diram/diramc/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/diram/diramc/docs[0m
+[0;35m  📁 Found: libpolycall/docs[0m
+[0;32m    ✓ Extracted 7 files from MVPs/libpolycall/docs[0m
+[0;35m  📁 Found: libpolycall/bindings/pypolycall-outdated/docs[0m
+[0;35m  📁 Found: libpolycall/(isolated)/bindings/pypolycall/docs[0m
+[0;35m  📁 Found: OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs[0m
+[0;35m  📁 Found: OBIX/dom-asm.MVP-31/docs[0m
+[0;32m    ✓ Extracted 6 files from MVPs/OBIX/dom-asm.MVP-31/docs[0m
+[0;35m  📁 Found: zerocall/node-zero/docs[0m
+[0;32m    ✓ Extracted 12 files from MVPs/zerocall/node-zero/docs[0m
+[0;35m  📁 Found: services/computing/hardware/dch-core-interface/docs[0m
+[0;32m    ✓ Extracted 1 files from MVPs/services/computing/hardware/dch-core-interface/docs[0m
+[0;35m  📁 Found: gov-clock/gov-clock/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/gov-clock/gov-clock/docs[0m
+[0;35m  📁 Found: git-raf/git-raf/docs[0m
+[0;32m    ✓ Extracted 16 files from MVPs/git-raf/git-raf/docs[0m
+[0;35m  📁 Found: nexus-search/nexus-search_nofs/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/nexus-search/nexus-search_nofs/docs[0m
+[0;35m  📁 Found: nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;35m  📁 Found: axis/docs[0m
+[0;32m    ✓ Extracted 3 files from MVPs/axis/docs[0m
+[0;35m  📁 Found: rifttest/docs[0m
+[0;32m    ✓ Extracted 5 files from MVPs/rifttest/docs[0m
+[0;35m  📁 Found version folder: nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from MVPs/nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[1;33mDeep searching in: New folder[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: nexus-search[0m
+[0;35m  📁 Found: nexus-search_nofs/docs[0m
+[0;32m    ✓ Extracted 5 files from nexus-search/nexus-search_nofs/docs[0m
+[0;35m  📁 Found: nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;35m  📁 Found version folder: nexus-search_nofs/fixtures/vanilla/docs[0m
+[0;32m    ✓ Extracted 2 files from nexus-search/nexus-search_nofs/fixtures/vanilla/docs[0m
+[1;33mDeep searching in: nlm_atlas[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: nlm_framework[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: node-zero[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 12 files from node-zero/docs[0m
+[1;33mDeep searching in: obielf[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 15 files from obielf/docs[0m
+[1;33mDeep searching in: obinexus[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 11 files from obinexus/docs[0m
+[0;35m  📁 Found: obinexus/obix/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/obix/docs[0m
+[0;35m  📁 Found: obinexus/hypenum/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/hypenum/docs[0m
+[0;35m  📁 Found: obinexus/libpolycall/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/libpolycall/docs[0m
+[0;35m  📁 Found: obinexus/node-zero/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/node-zero/docs[0m
+[0;35m  📁 Found: obinexus/nexus-search/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/nexus-search/docs[0m
+[0;35m  📁 Found: obinexus/dop_adapter/docs[0m
+[0;32m    ✓ Extracted 3 files from obinexus/obinexus/dop_adapter/docs[0m
+[1;33mDeep searching in: obivox[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: obix[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: ogike-core[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 2 files from ogike-core/docs[0m
+[1;33mDeep searching in: opensense-infrastructure[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from opensense-infrastructure/docs[0m
+[1;33mDeep searching in: opensense-motion[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: PBCLI_Phenomic_Brian_Computing_Lensing_Interface[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 18 files from PBCLI_Phenomic_Brian_Computing_Lensing_Interface/docs[0m
+[1;33mDeep searching in: pencall[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: phantomid[0m
+[0;35m  📁 Found: phantomid/docs[0m
+[0;32m    ✓ Extracted 2 files from phantomid/phantomid/docs[0m
+[1;33mDeep searching in: phenomic_lensing_protocol[0m
+[0;35m  📁 Found: examples/pheno_happiness/docs[0m
+[0;32m    ✓ Extracted 3 files from phenomic_lensing_protocol/examples/pheno_happiness/docs[0m
+[1;33mDeep searching in: pi[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from pi/docs[0m
+[1;33mDeep searching in: polycall[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 120 files from polycall/docs[0m
+[0;35m  📁 Found: docs/pdf/docs[0m
+[0;32m    ✓ Extracted 3 files from polycall/docs/pdf/docs[0m
+[0;35m  📁 Found: fixtures/polic-dev/polic/docs[0m
+[0;32m    ✓ Extracted 5 files from polycall/fixtures/polic-dev/polic/docs[0m
+[0;35m  📁 Found: v1/polycall/docs[0m
+[0;32m    ✓ Extracted 5 files from polycall/v1/polycall/docs[0m
+[1;33mDeep searching in: puppet-method-protocol[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: qft_iso[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 1 files from qft_iso/docs[0m
+[1;33mDeep searching in: qft-threat-modelling[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 5 files from qft-threat-modelling/docs[0m
+[1;33mDeep searching in: research[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rift[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftarch[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftaux[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftbridge[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rifters_way[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftest[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftgov[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftin[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: rift-iq[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftiwu[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftlang[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 45 files from riftlang/docs[0m
+[1;33mDeep searching in: rift-N[0m
+[0;35m  📁 Found: tools/ad-hoc/rift-core/docs[0m
+[0;35m  📁 Found: docs[0m
+[0;32m    ✓ Extracted 121 files from rift-N/docs[0m
+[0;35m  📁 Found: riftlang-v1trial-main/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/riftlang-v1trial-main/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/riftold/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: rift-old/riftlang/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/rift-old/riftlang/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: rift-old/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: rift-poc/docs[0m
+[0;32m    ✓ Extracted 124 files from rift-N/rift-poc/docs[0m
+[0;35m  📁 Found: rift-poc/rift-0/docs[0m
+[0;32m    ✓ Extracted 126 files from rift-N/rift-poc/rift-0/docs[0m
+[0;35m  📁 Found: rift-core/docs[0m
+[0;32m    ✓ Extracted 1 files from rift-N/rift-core/docs[0m
+[0;35m  📁 Found: rift-core/setup/rift-core/docs[0m
+[0;35m  📁 Found: riftlang-main/docs[0m
+[0;32m    ✓ Extracted 45 files from rift-N/riftlang-main/docs[0m
+[0;35m  📁 Found: rift-0/docs[0m
+[0;32m    ✓ Extracted 48 files from rift-N/rift-0/docs[0m
+[1;33mDeep searching in: riftraf[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftsdx[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: riftylabs-2025[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/tools/ad-hoc/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/docs[0m
+[0;32m    ✓ Extracted 121 files from riftylabs-2025/riftylabs-2025/rift-N/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/riftlang-v1trial-main/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/riftlang-v1trial-main/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/riftlang/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/riftlang/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift0/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;32m    ✓ Extracted 8 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-poc/docs[0m
+[0;32m    ✓ Extracted 124 files from riftylabs-2025/riftylabs-2025/rift-N/rift-poc/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-poc/rift-0/docs[0m
+[0;32m    ✓ Extracted 126 files from riftylabs-2025/riftylabs-2025/rift-N/rift-poc/rift-0/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-core/docs[0m
+[0;32m    ✓ Extracted 1 files from riftylabs-2025/riftylabs-2025/rift-N/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-core/setup/rift-core/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/riftlang-main/docs[0m
+[0;32m    ✓ Extracted 45 files from riftylabs-2025/riftylabs-2025/rift-N/riftlang-main/docs[0m
+[0;35m  📁 Found: riftylabs-2025/rift-N/rift-0/docs[0m
+[0;32m    ✓ Extracted 48 files from riftylabs-2025/riftylabs-2025/rift-N/rift-0/docs[0m
+[1;33mDeep searching in: rust-semverx[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: services[0m
+[0;35m  📁 Found: computing/hardware/dch-core-interface/docs[0m
+[0;32m    ✓ Extracted 1 files from services/computing/hardware/dch-core-interface/docs[0m
+[0;35m  📁 Found: computing/blueshare-polyglot-exosketelon/docs[0m
+[0;32m    ✓ Extracted 2 files from services/computing/blueshare-polyglot-exosketelon/docs[0m
+[1;33mDeep searching in: textbooks-entries[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: U_frameworks[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: V[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: Videos[0m
+  No docs folders found at any depth
+[1;33mDeep searching in: yt[0m
+[0;35m  📁 Found: rift/docs[0m
+[0;32m    ✓ Extracted 126 files from yt/rift/docs[0m
+[0;35m  📁 Found: obi_vision_mode/docs[0m
+[0;32m    ✓ Extracted 2 files from yt/obi_vision_mode/docs[0m
+
+[0;32m=== Deep Search Extraction Complete ===[0m
+╔═══════════════════════════════════════════════╗
+║         DEEP SEARCH EXTRACTION SUMMARY        ║
+╠═══════════════════════════════════════════════╣
+║ Repositories Scanned:                     172 ║
+║ Docs Folders Found:                       204 ║
+║ Successful Extractions:                   188 ║
+║ Zone Files Cleaned:                         0 ║
+║                                               ║
+║ Patents Directory:         ./patents          ║
+║ Master Index:              LATEST_INDEX.txt   ║
+║ Session Marker:            LATEST_SESSION     ║
+╚═══════════════════════════════════════════════╝
+
+[0;32mSession continuity maintained per OBINexus framework.[0m
+[0;34m#NoGhosting - Deep search documentation preserved for patent filing.[0m
+
+[0;35mDocs folders were found in:[0m
+Docs Location: axis/docs
+Docs Location: computing/blueshare-polyglot-exosketelon/docs
+Docs Location: computing/hardware/dch-core-interface/docs
+Docs Location: diram/diramc/docs
+Docs Location: diram/diram/docs
+Docs Location: docs
+Docs Location: docs/docs
+Docs Location: DocsGPT/docs
+Docs Location: docs/pdf/docs
+Docs Location: examples/pheno_happiness/docs
+Docs Location: feedback_loop_coherance/docs
+Docs Location: fixtures/polic-dev/polic/docs
+Docs Location: git-raf/git-raf/docs
+Docs Location: gosilabs/docs
+Docs Location: gov-clock/gov-clock/docs
+Docs Location: libpolycall/docs
+Docs Location: nexus-search/nexus-search_nofs/docs
+Docs Location: nexus-search/nexus-search_nofs/fixtures/vanilla/docs
+Docs Location: nexus-search_nofs/docs
+Docs Location: nexus-search_nofs/fixtures/vanilla/docs
+Docs Location: obinexus/dop_adapter/docs
+Docs Location: obinexus/hypenum/docs
+Docs Location: obinexus/libpolycall/docs
+Docs Location: obinexus/nexus-search/docs
+Docs Location: obinexus/node-zero/docs
+Docs Location: obinexus/obix/docs
+Docs Location: obi_vision_mode/docs
+Docs Location: OBIX/dom-asm.MVP-31/docs
+Docs Location: OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs
+Docs Location: patents_20250907_163930/patents/obiai/docs
+Docs Location: phantomid/docs
+Docs Location: poc/docs
+Docs Location: rift-0/docs
+Docs Location: rift-core/docs
+Docs Location: rift/docs
+Docs Location: riftlang-main/docs
+Docs Location: riftlang-v1trial-main/docs
+Docs Location: rift-old/riftlang/docs
+Docs Location: rift-old/riftold/rift-poc/rift0/artifacts/docs
+Docs Location: rift-old/riftold/rift-poc/rift0/docs
+Docs Location: rift-old/riftold/rift-poc/rift1/docs
+Docs Location: rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs
+Docs Location: rift-old/rift-poc/rift0/artifacts/docs
+Docs Location: rift-old/rift-poc/rift0/docs
+Docs Location: rift-old/rift-poc/rift1/docs
+Docs Location: rift-old/rift-poc/rift-poc-old-main/artifacts/docs
+Docs Location: rift-poc/docs
+Docs Location: rift-poc/rift-0/docs
+Docs Location: rifttest/docs
+Docs Location: riftylabs-2025/rift-N/docs
+Docs Location: riftylabs-2025/rift-N/rift-0/docs
+Docs Location: riftylabs-2025/rift-N/rift-core/docs
+Docs Location: riftylabs-2025/rift-N/riftlang-main/docs
+Docs Location: riftylabs-2025/rift-N/riftlang-v1trial-main/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/riftlang/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/artifacts/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift0/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift1/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/riftold/rift-poc/rift-poc-old-main/artifacts/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/artifacts/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/rift-poc/rift0/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/rift-poc/rift1/docs
+Docs Location: riftylabs-2025/rift-N/rift-old/rift-poc/rift-poc-old-main/artifacts/docs
+Docs Location: riftylabs-2025/rift-N/rift-poc/docs
+Docs Location: riftylabs-2025/rift-N/rift-poc/rift-0/docs
+Docs Location: services/computing/hardware/dch-core-interface/docs
+Docs Location: v1/polycall/docs
+Docs Location: v2/polycall-v2/docs
+Docs Location: zerocall/node-zero/docs

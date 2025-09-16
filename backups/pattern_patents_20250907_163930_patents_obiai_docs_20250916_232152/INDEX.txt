@@ -1,0 +1,13 @@
+=== OBINexus Patent Documentation Index ===
+Repository: backups
+Docs Location: patents_20250907_163930/patents/obiai/docs
+Source Path: ./backups/patents_20250907_163930/patents/obiai/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_backups_patents_20250907_163930_patents_obiai_docs
+Files Extracted: 2
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+OBINexus Patents Repository - README.md.pdf
+OBICALL_PHASE_1_2.md

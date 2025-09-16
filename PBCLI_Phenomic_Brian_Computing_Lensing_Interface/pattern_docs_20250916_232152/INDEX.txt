@@ -1,0 +1,29 @@
+=== OBINexus Patent Documentation Index ===
+Repository: PBCLI_Phenomic_Brian_Computing_Lensing_Interface
+Docs Location: docs
+Source Path: ./PBCLI_Phenomic_Brian_Computing_Lensing_Interface/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_PBCLI_Phenomic_Brian_Computing_Lensing_Interface_docs
+Files Extracted: 18
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+Pbcli Vision Compliance.pdf
+consciousness_preservation.md
+article_bci_foundation_4D.md
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.pdf
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.synctex(busy)
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.synctex.gz
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.aux
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.aux
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.out
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.pdf
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.out
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.tex
+OBINexus Cryptographic Substrate - Formal Specification with Dimensional Game Theory.log
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.log
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.pdf
+Phenomic Brain Computing Lensing Interface - A Consciousness Framework with Gravitational Inversion Mode.tex
+PBCI.md
+README.md

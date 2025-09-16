@@ -1,0 +1,76 @@
+=== OBINexus Patent Documentation Index ===
+Repository: libpolycall
+Docs Location: docs
+Source Path: ./libpolycall/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_libpolycall_docs
+Files Extracted: 65
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+OBINexus Phenomenologic Data Specification.pdf
+README.pdf
+hacc-human-advocacy-compliance-cycle.md
+right_to_act_clause.md
+LICENSE
+use-it-respect-it.md
+inclusive-responsive-web-design-article.md
+OBINexus Constitutional Ecosystem README.pdf
+Universal Pension Allocation for Human Rights Enforcement - OBINexus Constitutional Clause.pdf
+OBINexus Constitutional Legal Framework.pdf
+OBIAxis Division Charter - Epistemological Alignment Authority.pdf
+OBINexus Constitutional Legal Framework_ Machine-Verifiable Governance Code.pdf
+OBINexus Constitutional Clause_ Department-to-Division Transition Protocol.pdf
+Right to Act Human Rights Clause - Constitutional Implementation.pdf
+Dark Psychology Mitigation & Disability Rights Enforcement Specification.pdf
+The Truth Project.pdf
+OBINexus UI_UX Infrastructure Specification.pdf
+README.md
+obinexus-constitutional-framework.md
+department_division_clause.md
+human-rights-enforcement-clause.md
+obinexus-constitutional-legal-code.md
+obinexus-constructive-use-constitutional-protection.md
+dark-psychology-mitigation-spec.md
+dark-psychology-mitigation.md
+obinexus-uiux-infrastructure-specification.md
+obiaxis_division_charter.md
+legal-index.md
+MIGRATION_REPORT.md
+PLAN.md
+LibPolyCall Glue Philosophy & Anti-Pattern Prevention Guide.md
+LibPolyCall – Semantic Version X FFI Adapter Vision.md
+obinexus_philosopher_application_the_trilogy_to_live_by.md
+ARCHITECTURE.md
+obinexus-database-adapter-spec.md
+TRIAL.md
+founder.png
+OBINexus User-Defined XSD Polyglot System Specification.md
+FEATURES.md
+implementation_strategy.md
+hotwiring_architecture.md
+hotwiring_adapter_integration.md
+hotwiring_overview.md
+README.md
+repo_structure.md
+hotwiring_adapter_integration_spec.md
+backward_compatibility.md
+Cryptographic_Standard_V1_0.pdf
+ButtonLogic.js
+domain_sepcific.tsx
+example.tsx
+renderFunc.js
+renderOOP.js
+main.js
+README.md
+Mathematical_Framework_for_Zero_Overhead_Data_Marshalling.pdf
+Isomorphic_Reduction__Not_a_Bug__But_a_Feature.pdf
+package.json
+DOPAdapter.js
+USAGE.md
+Accessibility Heart.png
+Nnamdi(Aged 23).png
+Logo.webp
+89138089.png
+PolyCall.md

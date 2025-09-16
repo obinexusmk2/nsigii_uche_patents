@@ -1,0 +1,27 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: git-raf/git-raf/docs
+Source Path: ./MVPs/git-raf/git-raf/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_git-raf_git-raf_docs
+Files Extracted: 16
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+spec.pdf
+git_raf_biomimetic_foundation.md
+readme_docs.md
+README.html
+enhanced_chapter_6.md
+Building the Perfect Rice Cooker - A Physics-First Approach.pdf
+README.md
+The Hidden Cipher for One Way Function CheckSum Interigity.pdf
+Enhanced Chapter 6_ Git-RAF Integration.pdf
+Dimensional Game_Theory.pdf
+README.pdf
+spec.html
+Unbiased_AI (5).pdf
+Building the Perfect Rice Cooker_ A Design-First, Physics-Informed Product for Human-Centric Kitchens.pdf
+Mitigating_Bias_in_MachineLearnign_Models.pdf
+raf_specification.md

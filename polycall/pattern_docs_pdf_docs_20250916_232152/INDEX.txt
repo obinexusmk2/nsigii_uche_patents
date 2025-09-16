@@ -1,0 +1,14 @@
+=== OBINexus Patent Documentation Index ===
+Repository: polycall
+Docs Location: docs/pdf/docs
+Source Path: ./polycall/docs/pdf/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_polycall_docs_pdf_docs
+Files Extracted: 3
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+PLAN.md
+FEATURES.md
+USAGE.md

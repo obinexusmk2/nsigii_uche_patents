@@ -1,0 +1,91 @@
+@startuml RIFT Ecosystem Architecture
+
+' Define skin parameters for clarity
+skinparam monochrome true
+skinparam shadowing false
+skinparam classFontSize 12
+skinparam packageStyle rectangle
+
+' Define core components
+package "OBINexus Framework" {
+  [Civil Collapse Response] --> [Distributed Governance]
+  [Distributed Governance] --> [HITL-to-HOTL Gating]
+  [HITL-to-HOTL Gating] --> [Constitutional Compliance]
+  [Constitutional Compliance] --> [Neurodivergent Accessibility]
+}
+
+package "RIFT Ecosystem" {
+  [rift.exe] #--> [GossipyLang]
+  [rift.exe] --> [riftest]
+  [rift.exe] --> [riftsh]
+  [rift.exe] --> [riftraf]
+  [rift.app] --> [R"" Syntax]
+  [rift.app] --> [R'' Subroutines]
+  [GossipyLang] --> [rift.app]
+}
+
+' Define compilation pipeline
+package "Compilation Pipeline" {
+  [Tokenizer] --> [Parser]
+  [Parser] --> [Semantic Analysis]
+  [Semantic Analysis] --> [Bytecode]
+  [Bytecode] --> [Executable/Library]
+  [Executable/Library] --> [Firmware (riftraf)]
+  [Firmware (riftraf)] --> [Cultural Adaptation]
+}
+
+' Define gating system
+package "Three-Axis Gating" {
+  [X-Axis: Workflow\n(todo → doing → done)]
+  [Y-Axis: Validation\n(open → validate → close)]
+  [Z-Axis: Deployment\n(stage → deploy → monitor)]
+}
+
+' Connect components
+[OBINexus Framework] --> [RIFT Ecosystem]
+[RIFT Ecosystem] --> [Compilation Pipeline]
+[Compilation Pipeline] --> [Three-Axis Gating]
+[rift.exe] --> [Tokenizer]
+[riftest] --> [Y-Axis: Validation]
+[riftsh] --> [Z-Axis: Deployment]
+[riftraf] --> [Firmware (riftraf)]
+[R"" Syntax] --> [Tokenizer]
+[R'' Subroutines] --> [Parser]
+[GossipyLang] --> [Semantic Analysis]
+[Constitutional Compliance] --> [Semantic Analysis]
+[Neurodivergent Accessibility] --> [R"" Syntax]
+[Neurodivergent Accessibility] --> [R'' Subroutines]
+
+' Notes
+note right of [rift.exe]
+  Core compiler in C (MVP),
+  migrating to Rust.
+  Processes R"" and R'' to
+  produce executables.
+end note
+
+note right of [riftest]
+  Testing library with keyway matrix
+  (true/false positives/negatives)
+  for compile-time safety.
+end note
+
+note right of [riftsh]
+  Unix-style shell for Rifters,
+  enabling interaction with RIFT.
+end note
+
+note right of [riftraf]
+  Regulation as Firmware,
+  embeds legal compliance
+  (e.g., Housing Act 1996).
+end note
+
+note right of [rift.app]
+  Polyglot app written in
+  R"" (regex) and R''
+  (subroutines), compiled
+  by rift.exe.
+end note
+
+@enduml

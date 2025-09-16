@@ -1,0 +1,17 @@
+=== OBINexus Patent Documentation Index ===
+Repository: MVPs
+Docs Location: OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs
+Source Path: ./MVPs/OBIX/DOM-Automaton-State-Miniiaztion-MVP.3/docs
+Extraction Time: 20250916_232152
+Session ID: OBINEXUS_20250916_232152_MVPs_OBIX_DOM-Automaton-State-Miniiaztion-MVP.3_docs
+Files Extracted: 6
+Coherence Score: 0.954
+Constitutional Compliance: VERIFIED
+
+Files in this extraction:
+README.md
+tennis_tracker.py
+State Machine Optimization in Tennis Score Tracking.md
+State Machine Minization - An Application Based Case Study  on Tennis.pdf
+Automaton State Minimization and AST Optimization.pdf
+Extended Automaton-AST Minimization and Validation.pdf
